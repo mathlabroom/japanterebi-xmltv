@@ -87,6 +87,14 @@ jobs:
       - name: Minify XML
         run: uv run minify --input guide.xml guide.xml
 
+# --- 新增步骤：生成 .gz 压缩包 ---
+      - name: Compress XML
+        run: |
+          # -k (keep) 选项会保留原始的 guide.xml 文件
+          # -f (force) 如果已经存在旧的 .gz 文件则覆盖
+          gzip -kf guide.xml 
+          echo "Generated guide.xml.gz"
+
       - name: Remove the downloaded repositories
         run: |
           echo "Removing 'database'"
@@ -99,10 +107,13 @@ jobs:
           git config --global user.name 'Japan Terebi [GitHub Actions]'
           git config --global user.email 'japanterebi@users.noreply.github.com'
           export NOW=$(date +'%Y-%m-%dT%H:%M:%S')
+          
           git add guide.xml
+          git add guide.xml.gz      # <--- 确保添加了压缩后的文件
           git add channels.json
           git add japanterebi.channels.xml
           git add partial/japanterebi@*.channels.xml
           git add partial/guide@*.xml
+          
           git commit -am "Automated guide.xml update ($NOW)"
           git push
