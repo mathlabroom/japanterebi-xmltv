@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20260318">
 <channel id="NHKWorldPremium.jp"><display-name>NHK World Premium</display-name><icon src="https://i.imgur.com/4ESi2La.png"/><url>https://nhkworldpremium.com</url></channel>
 <channel id="NHKWorldPremium.jp"><display-name>NHK World Premium</display-name><icon src="https://i.imgur.com/4ESi2La.png"/><url>https://nhkworldpremium.com</url></channel>
+<programme start="20260317150000 +0000" stop="20260317152900 +0000" channel="NHKWorldPremium.jp"><title lang="en">TBA</title></programme>
 <programme start="20260317152900 +0000" stop="20260317153000 +0000" channel="NHKWorldPremium.jp"><title lang="en">World Weather</title></programme>
 <programme start="20260317153000 +0000" stop="20260317162000 +0000" channel="NHKWorldPremium.jp"><title lang="en">100 Letters to the Future 2026: Children&apos;s Stories from the Disaster Area</title></programme>
 <programme start="20260317162000 +0000" stop="20260317164500 +0000" channel="NHKWorldPremium.jp"><title lang="en">Today&apos;s Cooking</title></programme>
@@ -59,6 +60,7 @@
 <programme start="20260318143000 +0000" stop="20260318144000 +0000" channel="NHKWorldPremium.jp"><title lang="en">News Commentary</title></programme>
 <programme start="20260318144000 +0000" stop="20260318144500 +0000" channel="NHKWorldPremium.jp"><title lang="en">News &amp; Weather</title></programme>
 <programme start="20260318144500 +0000" stop="20260318152900 +0000" channel="NHKWorldPremium.jp"><title lang="en">International News Report 2026</title></programme>
+<programme start="20260317150000 +0000" stop="20260317152900 +0000" channel="NHKWorldPremium.jp"><title lang="ja">未定</title></programme>
 <programme start="20260317152900 +0000" stop="20260317153000 +0000" channel="NHKWorldPremium.jp"><title lang="ja">ワールドウェザー</title></programme>
 <programme start="20260317153000 +0000" stop="20260317162000 +0000" channel="NHKWorldPremium.jp"><title lang="ja">未来への手紙</title><sub-title lang="ja">2026～あれから15年たちました～</sub-title></programme>
 <programme start="20260317162000 +0000" stop="20260317164500 +0000" channel="NHKWorldPremium.jp"><title lang="ja">きょうの料理</title><sub-title lang="ja">「はじめての手仕事」ふき</sub-title></programme>
