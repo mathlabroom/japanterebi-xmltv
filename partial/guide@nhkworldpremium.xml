@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20260323">
 <channel id="NHKWorldPremium.jp"><display-name>NHK World Premium</display-name><icon src="https://i.imgur.com/4ESi2La.png"/><url>https://nhkworldpremium.com</url></channel>
 <channel id="NHKWorldPremium.jp"><display-name>NHK World Premium</display-name><icon src="https://i.imgur.com/4ESi2La.png"/><url>https://nhkworldpremium.com</url></channel>
+<programme start="20260322153100 +0000" stop="20260322153500 +0000" channel="NHKWorldPremium.jp"><title lang="en">Mini Program</title></programme>
 <programme start="20260322153500 +0000" stop="20260322162000 +0000" channel="NHKWorldPremium.jp"><title lang="en">NHK Amateur Singing Contest</title><sub-title lang="en">&quot;Ushiku City, Ibaraki Prefecture&quot;</sub-title></programme>
 <programme start="20260322162000 +0000" stop="20260322162500 +0000" channel="NHKWorldPremium.jp"><title lang="en">World Weather</title></programme>
 <programme start="20260322162500 +0000" stop="20260322163000 +0000" channel="NHKWorldPremium.jp"><title lang="en">Songs for Everyone</title></programme>
@@ -67,6 +68,7 @@
 <programme start="20260323143000 +0000" stop="20260323144000 +0000" channel="NHKWorldPremium.jp"><title lang="en">News Commentary</title></programme>
 <programme start="20260323144000 +0000" stop="20260323144500 +0000" channel="NHKWorldPremium.jp"><title lang="en">News &amp; Weather</title></programme>
 <programme start="20260323144500 +0000" stop="20260323152900 +0000" channel="NHKWorldPremium.jp"><title lang="en">International News Report 2026</title></programme>
+<programme start="20260322153100 +0000" stop="20260322153500 +0000" channel="NHKWorldPremium.jp"><title lang="ja">ミニ番組</title></programme>
 <programme start="20260322153500 +0000" stop="20260322162000 +0000" channel="NHKWorldPremium.jp"><title lang="ja">NHKのど自慢</title><sub-title lang="ja">茨城から生放送！▽川中美幸・浅岡雄也　～牛久市中央生涯学習センターから中継～</sub-title></programme>
 <programme start="20260322162000 +0000" stop="20260322162500 +0000" channel="NHKWorldPremium.jp"><title lang="ja">ワールドウェザー</title></programme>
 <programme start="20260322162500 +0000" stop="20260322163000 +0000" channel="NHKWorldPremium.jp"><title lang="ja">みんなのうた</title></programme>
@@ -571,7 +573,7 @@
 <programme start="20260329025000 +0000" stop="20260329025600 +0000" channel="NHKWorldPremium.jp"><title lang="en">Ukiyoe EDO-LIFE</title></programme>
 <programme start="20260329025600 +0000" stop="20260329030000 +0000" channel="NHKWorldPremium.jp"><title lang="en">World Weather</title></programme>
 <programme start="20260329030000 +0000" stop="20260329031500 +0000" channel="NHKWorldPremium.jp"><title lang="en">News</title></programme>
-<programme start="20260329031500 +0000" stop="20260329040000 +0000" channel="NHKWorldPremium.jp"><title lang="en">NHK Amateur Singing Contest</title></programme>
+<programme start="20260329031500 +0000" stop="20260329040000 +0000" channel="NHKWorldPremium.jp"><title lang="en">NHK Amateur Singing Contest</title><sub-title lang="en">&quot;Kan-onji City, Kagawa Prefecture&quot;</sub-title></programme>
 <programme start="20260329040000 +0000" stop="20260329040500 +0000" channel="NHKWorldPremium.jp"><title lang="en">News &amp; Weather</title></programme>
 <programme start="20260329040500 +0000" stop="20260329053500 +0000" channel="NHKWorldPremium.jp"><title lang="en">Songs of Japanese Spirit</title></programme>
 <programme start="20260329053500 +0000" stop="20260329060000 +0000" channel="NHKWorldPremium.jp"><title lang="en">Gretel&apos;s Magical Oven</title><sub-title lang="en">Encore</sub-title></programme>
@@ -896,7 +898,7 @@
 <programme start="20260329025000 +0000" stop="20260329025600 +0000" channel="NHKWorldPremium.jp"><title lang="ja">浮世絵EDO-LIFE</title></programme>
 <programme start="20260329025600 +0000" stop="20260329030000 +0000" channel="NHKWorldPremium.jp"><title lang="ja">ワールドウェザー</title></programme>
 <programme start="20260329030000 +0000" stop="20260329031500 +0000" channel="NHKWorldPremium.jp"><title lang="ja">ニュース</title></programme>
-<programme start="20260329031500 +0000" stop="20260329040000 +0000" channel="NHKWorldPremium.jp"><title lang="ja">NHKのど自慢</title></programme>
+<programme start="20260329031500 +0000" stop="20260329040000 +0000" channel="NHKWorldPremium.jp"><title lang="ja">NHKのど自慢</title><sub-title lang="ja">香川から生放送！▽坂本冬美・三山ひろし～ハイスタッフホール（観音寺市民会館）から中継～</sub-title></programme>
 <programme start="20260329040000 +0000" stop="20260329040500 +0000" channel="NHKWorldPremium.jp"><title lang="ja">ニュース・気象情報</title></programme>
 <programme start="20260329040500 +0000" stop="20260329053500 +0000" channel="NHKWorldPremium.jp"><title lang="ja">新・BS日本のうた</title></programme>
 <programme start="20260329053500 +0000" stop="20260329060000 +0000" channel="NHKWorldPremium.jp"><title lang="ja">グレーテルのかまど</title><sub-title lang="ja">（アンコール）選　“らんま1/2”のサクラもち</sub-title></programme>
