@@ -1,27 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20260326">
 <channel id="TokyoMX1.jp"><display-name>Tokyo MX1</display-name><icon src="https://i.imgur.com/igia8OX.png"/><url>https://s.mxtv.jp</url></channel>
 <channel id="TokyoMX2.jp"><display-name>Tokyo MX2</display-name><icon src="https://i.imgur.com/SwvuR00.png"/><url>https://s.mxtv.jp</url></channel>
-<programme start="20260325200000 +0000" stop="20260325210000 +0000" channel="TokyoMX2.jp"><title lang="ja">ヒーリングタイム＆ヘッドラインニュース</title><desc lang="ja">レトロな気分</desc></programme>
-<programme start="20260325210000 +0000" stop="20260325220000 +0000" channel="TokyoMX2.jp"><title lang="ja">ヒーリングタイム＆ヘッドラインニュース</title><desc lang="ja">散歩の風景 墨田・台東・日本橋・東京ＢＡＹ</desc></programme>
-<programme start="20260325220000 +0000" stop="20260325220800 +0000" channel="TokyoMX2.jp"><title lang="ja">ヒーリングタイム＆ヘッドラインニュース</title><desc lang="ja">ねこの足跡＆看板猫編</desc></programme>
-<programme start="20260325220800 +0000" stop="20260325223000 +0000" channel="TokyoMX2.jp"><title lang="ja">ごりやくさん【再】【字】</title><desc lang="ja">愛宕神社</desc></programme>
-<programme start="20260325223000 +0000" stop="20260325230000 +0000" channel="TokyoMX2.jp"><title lang="ja">ＭＸショッピング</title><desc lang="ja"/></programme>
-<programme start="20260325230000 +0000" stop="20260325233000 +0000" channel="TokyoMX2.jp"><title lang="ja">ヒーリングタイム＆ヘッドラインニュース</title><desc lang="ja">散歩の風景 墨田・台東・日本橋・東京ＢＡＹ</desc></programme>
-<programme start="20260325233000 +0000" stop="20260326024000 +0000" channel="TokyoMX2.jp"><title lang="ja">東京マーケットワイド 第１部【デ】</title><desc lang="ja">東証アローズから市況を完全生中継！プライム・スタンダード・グロースなど各市場の個別銘柄の値動きをリアルタイムで解説。アナリストが相場動向を分析、企業の最新情報も</desc></programme>
-<programme start="20260326024000 +0000" stop="20260326032900 +0000" channel="TokyoMX2.jp"><title lang="ja">ヒーリングタイム＆ヘッドラインニュース</title><desc lang="ja">東京の伝統工芸篇</desc></programme>
-<programme start="20260326032900 +0000" stop="20260326065000 +0000" channel="TokyoMX2.jp"><title lang="ja">東京マーケットワイド 第２部【デ】</title><desc lang="ja">東証アローズから市況を完全生中継！プライム・スタンダード・グロースなど各市場の個別銘柄の値動きをリアルタイムで解説。アナリストが相場動向を分析、企業の最新情報も</desc></programme>
-<programme start="20260326065000 +0000" stop="20260326120000 +0000" channel="TokyoMX2.jp"><title lang="ja">東京シティ競馬中継</title><desc lang="ja">「アザレア特別」「隅田川オープン」「スノードロップ賞」</desc></programme>
-<programme start="20260326120000 +0000" stop="20260326123000 +0000" channel="TokyoMX2.jp"><title lang="ja">ＭＸショッピング</title><desc lang="ja"/></programme>
-<programme start="20260326123000 +0000" stop="20260326130000 +0000" channel="TokyoMX2.jp"><title lang="ja">ＭＸショッピング</title><desc lang="ja"/></programme>
-<programme start="20260326130000 +0000" stop="20260326140000 +0000" channel="TokyoMX2.jp"><title lang="ja">ＷＯＲＬＤ　ＭＡＲＫＥＴＺ</title><desc lang="ja">国内夜間取引・為替市場・欧州株式市場・米国株式市場の動向をＬＩＶＥで解説</desc></programme>
-<programme start="20260326140000 +0000" stop="20260326143000 +0000" channel="TokyoMX2.jp"><title lang="ja">ヒーリングタイム＆ヘッドラインニュース</title><desc lang="ja">【改】東京レトロ物語</desc></programme>
-<programme start="20260326143000 +0000" stop="20260326150000 +0000" channel="TokyoMX2.jp"><title lang="ja">Ｔｏｋｙｏ　Ｐｈｏｔｏ　Ｌｉｂｒａｒｙ</title><desc lang="ja">隅田川から東京湾へ、交通と物流のダイナミズム</desc></programme>
-<programme start="20260326150000 +0000" stop="20260326153000 +0000" channel="TokyoMX2.jp"><title lang="ja">Ｔｏｋｙｏ　Ｐｈｏｔｏ　Ｌｉｂｒａｒｙ</title><desc lang="ja">潮風と草花の間を行く、葛西臨海公園</desc></programme>
-<programme start="20260326153000 +0000" stop="20260326160000 +0000" channel="TokyoMX2.jp"><title lang="ja">ヒーリングタイム＆ヘッドラインニュース</title><desc lang="ja">散歩の風景 墨田・台東・日本橋・東京ＢＡＹ</desc></programme>
-<programme start="20260326160000 +0000" stop="20260326170000 +0000" channel="TokyoMX2.jp"><title lang="ja">ヒーリングタイム＆ヘッドラインニュース</title><desc lang="ja">東京点描 上野そして芝</desc></programme>
-<programme start="20260326170000 +0000" stop="20260326180000 +0000" channel="TokyoMX2.jp"><title lang="ja">ヒーリングタイム＆ヘッドラインニュース</title><desc lang="ja">【改】東京レトロ物語</desc></programme>
-<programme start="20260326180000 +0000" stop="20260326190000 +0000" channel="TokyoMX2.jp"><title lang="ja">ヒーリングタイム＆ヘッドラインニュース</title><desc lang="ja">江戸川区自然動物園</desc></programme>
-<programme start="20260326190000 +0000" stop="20260326200000 +0000" channel="TokyoMX2.jp"><title lang="ja">ヒーリングタイム＆ヘッドラインニュース</title><desc lang="ja">東京点描 城西２</desc></programme>
 <programme start="20260325200000 +0000" stop="20260325200500 +0000" channel="TokyoMX1.jp"><title lang="ja">ハッピーナッチョイ！</title><desc lang="ja">「コロナが明けたら、出掛けよう、誰かに会いに行こう」のメッセージを込めたミニアニメ！作品を通じてコロナ禍の子どもたちを応援します！</desc></programme>
 <programme start="20260325200500 +0000" stop="20260325210000 +0000" channel="TokyoMX1.jp"><title lang="ja">浅草ふくまる旅館２ ★第５話「十年前の予約客」</title><desc lang="ja">都市再開発の波にさらされながらも、「お客さんは家族」をモットーに、義理人情に厚い下町ならではのおもてなしを続けるふくまる旅館。</desc></programme>
 <programme start="20260325210000 +0000" stop="20260325213000 +0000" channel="TokyoMX1.jp"><title lang="ja">お買い物情報</title><desc lang="ja"/></programme>
@@ -46,13 +25,13 @@
 <programme start="20260326060400 +0000" stop="20260326070000 +0000" channel="TokyoMX1.jp"><title lang="ja">大岡越前 ★「血を吸う宝石」</title><desc lang="ja">“大岡裁き”のことばで、名裁判官として知られている大岡越前守忠相を、八代将軍吉宗の享保の改革の一翼をにない、大江戸改革の立役者となった改革者の面から描いている。</desc></programme>
 <programme start="20260326070000 +0000" stop="20260326073000 +0000" channel="TokyoMX1.jp"><title lang="ja">ＭＸショッピング</title><desc lang="ja"/></programme>
 <programme start="20260326073000 +0000" stop="20260326080000 +0000" channel="TokyoMX1.jp"><title lang="ja">ＭＸショッピング</title><desc lang="ja"/></programme>
-<programme start="20260326080000 +0000" stop="20260326085900 +0000" channel="TokyoMX1.jp"><title lang="ja">【生】５時に夢中！　★志麻子＆中瀬▼志麻子さんが声優に挑戦！まさかの涙!?【デ】</title><desc lang="ja">木曜日は文壇ガールズ！志麻子＆中瀬が送る放送室風ＴＶ▼「演技派女優」は志麻子さんが声優に挑戦！涙のわけとは!?▼エンタメは香港映画歴代興収トップの話題作が登場！</desc></programme>
+<programme start="20260326080000 +0000" stop="20260326085900 +0000" channel="TokyoMX1.jp"><title lang="ja">【生】５時に夢中！ ★志麻子＆中瀬▼志麻子さんが声優に挑戦！まさかの涙!?【デ】</title><desc lang="ja">木曜日は文壇ガールズ！志麻子＆中瀬が送る放送室風ＴＶ▼「演技派女優」は志麻子さんが声優に挑戦！涙のわけとは!?▼エンタメは香港映画歴代興収トップの話題作が登場！</desc></programme>
 <programme start="20260326085900 +0000" stop="20260326093000 +0000" channel="TokyoMX1.jp"><title lang="ja">ＭＸショッピング</title><desc lang="ja"/></programme>
-<programme start="20260326093000 +0000" stop="20260326100000 +0000" channel="TokyoMX1.jp"><title lang="ja">ＢａｂｙＢｕｓーベビーバスー　★大人気の知育アニメがテレビで登場！　＃１３９</title><desc lang="ja">ＹｏｕＴｕｂｅ登録者数５００万人超え！大人気知育アニメ「ＢａｂｙＢｕｓ－ベビーバス－」が地上波初登場！楽しみながら学べて魅力満載のエピソードが続々登場！ぜひ親子でご覧ください！</desc></programme>
-<programme start="20260326100000 +0000" stop="20260326103000 +0000" channel="TokyoMX1.jp"><title lang="ja">アイカツフレンズ！　＃５９「合言葉はキスイダツカイア！」</title><desc lang="ja">光れ！輝け！これが私のアイカツ！</desc></programme>
-<programme start="20260326103000 +0000" stop="20260326110000 +0000" channel="TokyoMX1.jp"><title lang="ja">Ｇｏ！プリンセスプリキュア　＃２２【再】</title><desc lang="ja">＃２２「希望の炎！その名はキュアスカーレット!!」</desc></programme>
-<programme start="20260326110000 +0000" stop="20260326120000 +0000" channel="TokyoMX1.jp"><title lang="ja">【生】堀潤　Ｌｉｖｅ　Ｊｕｎｃｔｉｏｎ　★自転車反則金導入で事故多発エリアは…</title><desc lang="ja">ジャーナリスト堀潤が独自目線で伝える報道番組▼自転車反則金導入で事故多発エリアは…▼八代英輝／深澤真紀／堤伸輔▼キャスター・豊崎由里絵／気象予報士・田中陽南</desc></programme>
-<programme start="20260326120000 +0000" stop="20260326122500 +0000" channel="TokyoMX1.jp"><title lang="ja">Ｗｅ　ａｒｅ　ＳＴＡＲＤＯＭ！！～世界が注目！女子プロレス～　＃３２５</title><desc lang="ja">世界が注目する「ＳＴＡＲＤＯＭ」の試合ダイジェストと、プロレスに青春を捧げる彼女たちのドキュメンタリーをお届け！</desc></programme>
+<programme start="20260326093000 +0000" stop="20260326100000 +0000" channel="TokyoMX1.jp"><title lang="ja">ＢａｂｙＢｕｓーベビーバスー ★大人気の知育アニメがテレビで登場！ ＃１３９</title><desc lang="ja">ＹｏｕＴｕｂｅ登録者数５００万人超え！大人気知育アニメ「ＢａｂｙＢｕｓ－ベビーバス－」が地上波初登場！楽しみながら学べて魅力満載のエピソードが続々登場！ぜひ親子でご覧ください！</desc></programme>
+<programme start="20260326100000 +0000" stop="20260326103000 +0000" channel="TokyoMX1.jp"><title lang="ja">アイカツフレンズ！ ＃５９「合言葉はキスイダツカイア！」</title><desc lang="ja">光れ！輝け！これが私のアイカツ！</desc></programme>
+<programme start="20260326103000 +0000" stop="20260326110000 +0000" channel="TokyoMX1.jp"><title lang="ja">Ｇｏ！プリンセスプリキュア ＃２２【再】</title><desc lang="ja">＃２２「希望の炎！その名はキュアスカーレット!!」</desc></programme>
+<programme start="20260326110000 +0000" stop="20260326120000 +0000" channel="TokyoMX1.jp"><title lang="ja">【生】堀潤 Ｌｉｖｅ Ｊｕｎｃｔｉｏｎ ★自転車反則金導入で事故多発エリアは…</title><desc lang="ja">ジャーナリスト堀潤が独自目線で伝える報道番組▼自転車反則金導入で事故多発エリアは…▼八代英輝／深澤真紀／堤伸輔▼キャスター・豊崎由里絵／気象予報士・田中陽南</desc></programme>
+<programme start="20260326120000 +0000" stop="20260326122500 +0000" channel="TokyoMX1.jp"><title lang="ja">Ｗｅ ａｒｅ ＳＴＡＲＤＯＭ！！～世界が注目！女子プロレス～ ＃３２５</title><desc lang="ja">世界が注目する「ＳＴＡＲＤＯＭ」の試合ダイジェストと、プロレスに青春を捧げる彼女たちのドキュメンタリーをお届け！</desc></programme>
 <programme start="20260326122500 +0000" stop="20260326125400 +0000" channel="TokyoMX1.jp"><title lang="ja">ゆかりくんはギャップがずるい　★第８話【終】</title><desc lang="ja">「私たち、先生と生徒に戻ろう」芽衣子の突然の提案に、ゆかりくんは動揺を隠せない。ゆかりくんが出した答えは？二人のままならない人生や恋の行方やいかに!?</desc></programme>
 <programme start="20260326125400 +0000" stop="20260326130000 +0000" channel="TokyoMX1.jp"><title lang="ja">百姓貴族　３ｒｄ　Ｓｅａｓｏｎ　★４０頭目【再】【終】</title><desc lang="ja">４０頭目「荒川転生 ～荒川弘が異世界転生したら農家の知識で無双してガチの貴族になっちゃった件 ～」</desc></programme>
 <programme start="20260326130000 +0000" stop="20260326133000 +0000" channel="TokyoMX1.jp"><title lang="ja">牙狼＜ＧＡＲＯ＞　東ノ界楼　＃８「砂楼」【終】</title><desc lang="ja">道外流牙と莉杏のタッグ、再び──世界の安寧を担う「界楼」の座を巡る、壮大な物語が幕を開ける！</desc></programme>
@@ -71,4 +50,25 @@
 <programme start="20260326183500 +0000" stop="20260326190000 +0000" channel="TokyoMX1.jp"><title lang="ja">ごりやくさん【再】【字】</title><desc lang="ja">出雲大社</desc></programme>
 <programme start="20260326190000 +0000" stop="20260326193000 +0000" channel="TokyoMX1.jp"><title lang="ja">ＭＸショッピング</title><desc lang="ja"/></programme>
 <programme start="20260326193000 +0000" stop="20260326200000 +0000" channel="TokyoMX1.jp"><title lang="ja">原田伸郎のめざせパーゴルフⅢ</title><desc lang="ja">青山ゆずゆ・赤星憲広２</desc></programme>
+<programme start="20260325200000 +0000" stop="20260325210000 +0000" channel="TokyoMX2.jp"><title lang="ja">ヒーリングタイム＆ヘッドラインニュース</title><desc lang="ja">レトロな気分</desc></programme>
+<programme start="20260325210000 +0000" stop="20260325220000 +0000" channel="TokyoMX2.jp"><title lang="ja">ヒーリングタイム＆ヘッドラインニュース</title><desc lang="ja">散歩の風景 墨田・台東・日本橋・東京ＢＡＹ</desc></programme>
+<programme start="20260325220000 +0000" stop="20260325220800 +0000" channel="TokyoMX2.jp"><title lang="ja">ヒーリングタイム＆ヘッドラインニュース</title><desc lang="ja">ねこの足跡＆看板猫編</desc></programme>
+<programme start="20260325220800 +0000" stop="20260325223000 +0000" channel="TokyoMX2.jp"><title lang="ja">ごりやくさん【再】【字】</title><desc lang="ja">愛宕神社</desc></programme>
+<programme start="20260325223000 +0000" stop="20260325230000 +0000" channel="TokyoMX2.jp"><title lang="ja">ＭＸショッピング</title><desc lang="ja"/></programme>
+<programme start="20260325230000 +0000" stop="20260325233000 +0000" channel="TokyoMX2.jp"><title lang="ja">ヒーリングタイム＆ヘッドラインニュース</title><desc lang="ja">散歩の風景 墨田・台東・日本橋・東京ＢＡＹ</desc></programme>
+<programme start="20260325233000 +0000" stop="20260326024000 +0000" channel="TokyoMX2.jp"><title lang="ja">東京マーケットワイド 第１部【デ】</title><desc lang="ja">東証アローズから市況を完全生中継！プライム・スタンダード・グロースなど各市場の個別銘柄の値動きをリアルタイムで解説。アナリストが相場動向を分析、企業の最新情報も</desc></programme>
+<programme start="20260326024000 +0000" stop="20260326032900 +0000" channel="TokyoMX2.jp"><title lang="ja">ヒーリングタイム＆ヘッドラインニュース</title><desc lang="ja">東京の伝統工芸篇</desc></programme>
+<programme start="20260326032900 +0000" stop="20260326065000 +0000" channel="TokyoMX2.jp"><title lang="ja">東京マーケットワイド 第２部【デ】</title><desc lang="ja">東証アローズから市況を完全生中継！プライム・スタンダード・グロースなど各市場の個別銘柄の値動きをリアルタイムで解説。アナリストが相場動向を分析、企業の最新情報も</desc></programme>
+<programme start="20260326065000 +0000" stop="20260326120000 +0000" channel="TokyoMX2.jp"><title lang="ja">東京シティ競馬中継</title><desc lang="ja">「アザレア特別」「隅田川オープン」「スノードロップ賞」</desc></programme>
+<programme start="20260326120000 +0000" stop="20260326123000 +0000" channel="TokyoMX2.jp"><title lang="ja">ＭＸショッピング</title><desc lang="ja"/></programme>
+<programme start="20260326123000 +0000" stop="20260326130000 +0000" channel="TokyoMX2.jp"><title lang="ja">ＭＸショッピング</title><desc lang="ja"/></programme>
+<programme start="20260326130000 +0000" stop="20260326140000 +0000" channel="TokyoMX2.jp"><title lang="ja">ＷＯＲＬＤ　ＭＡＲＫＥＴＺ</title><desc lang="ja">国内夜間取引・為替市場・欧州株式市場・米国株式市場の動向をＬＩＶＥで解説</desc></programme>
+<programme start="20260326140000 +0000" stop="20260326143000 +0000" channel="TokyoMX2.jp"><title lang="ja">ヒーリングタイム＆ヘッドラインニュース</title><desc lang="ja">【改】東京レトロ物語</desc></programme>
+<programme start="20260326143000 +0000" stop="20260326150000 +0000" channel="TokyoMX2.jp"><title lang="ja">Ｔｏｋｙｏ　Ｐｈｏｔｏ　Ｌｉｂｒａｒｙ</title><desc lang="ja">隅田川から東京湾へ、交通と物流のダイナミズム</desc></programme>
+<programme start="20260326150000 +0000" stop="20260326153000 +0000" channel="TokyoMX2.jp"><title lang="ja">Ｔｏｋｙｏ　Ｐｈｏｔｏ　Ｌｉｂｒａｒｙ</title><desc lang="ja">潮風と草花の間を行く、葛西臨海公園</desc></programme>
+<programme start="20260326153000 +0000" stop="20260326160000 +0000" channel="TokyoMX2.jp"><title lang="ja">ヒーリングタイム＆ヘッドラインニュース</title><desc lang="ja">散歩の風景 墨田・台東・日本橋・東京ＢＡＹ</desc></programme>
+<programme start="20260326160000 +0000" stop="20260326170000 +0000" channel="TokyoMX2.jp"><title lang="ja">ヒーリングタイム＆ヘッドラインニュース</title><desc lang="ja">東京点描 上野そして芝</desc></programme>
+<programme start="20260326170000 +0000" stop="20260326180000 +0000" channel="TokyoMX2.jp"><title lang="ja">ヒーリングタイム＆ヘッドラインニュース</title><desc lang="ja">【改】東京レトロ物語</desc></programme>
+<programme start="20260326180000 +0000" stop="20260326190000 +0000" channel="TokyoMX2.jp"><title lang="ja">ヒーリングタイム＆ヘッドラインニュース</title><desc lang="ja">江戸川区自然動物園</desc></programme>
+<programme start="20260326190000 +0000" stop="20260326200000 +0000" channel="TokyoMX2.jp"><title lang="ja">ヒーリングタイム＆ヘッドラインニュース</title><desc lang="ja">東京点描 城西２</desc></programme>
 </tv>
