@@ -12,7 +12,7 @@
 <programme start="20260426000000 +0000" stop="20260426003000 +0000" channel="TokyoMX2.jp"><title lang="ja">ヒーリングタイム＆ヘッドラインニュース</title><desc lang="ja">ねこの足跡＆看板猫編</desc></programme>
 <programme start="20260426003000 +0000" stop="20260426004500 +0000" channel="TokyoMX2.jp"><title lang="ja">童謡コーラス♪名曲大合唱＆みんなの音楽会テレビ</title><desc lang="ja"/></programme>
 <programme start="20260426004500 +0000" stop="20260426010000 +0000" channel="TokyoMX2.jp"><title lang="ja">ヒーリングタイム＆ヘッドラインニュース</title><desc lang="ja">ねこの足跡＆看板猫編</desc></programme>
-<programme start="20260426010000 +0000" stop="20260426013000 +0000" channel="TokyoMX2.jp"><title lang="ja">Ｃａｒ　Ｘｓ　ｗｉｔｈ　ＮＡＰＡＣ【再】</title><desc lang="ja"/></programme>
+<programme start="20260426010000 +0000" stop="20260426013000 +0000" channel="TokyoMX2.jp"><title lang="ja">Ｃａｒ Ｘｓ ｗｉｔｈ ＮＡＰＡＣ【再】</title><desc lang="ja"/></programme>
 <programme start="20260426013000 +0000" stop="20260426020000 +0000" channel="TokyoMX2.jp"><title lang="ja">ＭＸショッピング</title><desc lang="ja"/></programme>
 <programme start="20260426020000 +0000" stop="20260426022500 +0000" channel="TokyoMX2.jp"><title lang="ja">日本ふるさと百景【字】</title><desc lang="ja">埼玉編３</desc></programme>
 <programme start="20260426022500 +0000" stop="20260426023000 +0000" channel="TokyoMX2.jp"><title lang="ja">フラッシュ天気</title><desc lang="ja"/></programme>
@@ -22,7 +22,14 @@
 <programme start="20260426040000 +0000" stop="20260426042500 +0000" channel="TokyoMX2.jp"><title lang="ja">ヒーリングタイム＆ヘッドラインニュース</title><desc lang="ja">東京の伝統工芸篇</desc></programme>
 <programme start="20260426042500 +0000" stop="20260426045000 +0000" channel="TokyoMX2.jp"><title lang="ja">ごりやくさん【字】</title><desc lang="ja">吉備津神社</desc></programme>
 <programme start="20260426045000 +0000" stop="20260426045900 +0000" channel="TokyoMX2.jp"><title lang="ja">ヒーリングタイム＆ヘッドラインニュース</title><desc lang="ja">東京の伝統工芸篇</desc></programme>
-<programme start="20260426045900 +0000" stop="20260426090000 +0000" channel="TokyoMX2.jp"><title lang="ja">パ・リーグ応援宣言！ホークス中継２０２６　★ソフトバンク×ロッテ</title><desc lang="ja">「福岡ソフトバンクホークス×千葉ロッテマリーンズ」～平和リース球場</desc></programme>
+<programme start="20260426045900 +0000" stop="20260426063000 +0000" channel="TokyoMX2.jp"><title lang="ja">パ・リーグ応援宣言！ホークス中継２０２６ ★ソフトバンク×ロッテ</title><desc lang="ja">「福岡ソフトバンクホークス×千葉ロッテマリーンズ」～平和リース球場</desc></programme>
+<programme start="20260426063000 +0000" stop="20260426063800 +0000" channel="TokyoMX2.jp"><title lang="ja">ヒーリングタイム＆ヘッドラインニュース</title><desc lang="ja">ブリキの時間箱②</desc></programme>
+<programme start="20260426063800 +0000" stop="20260426070000 +0000" channel="TokyoMX2.jp"><title lang="ja">ごりやくさん【再】【字】</title><desc lang="ja">飛騨一宮水無神社</desc></programme>
+<programme start="20260426070000 +0000" stop="20260426073000 +0000" channel="TokyoMX2.jp"><title lang="ja">ＭＸショッピング</title><desc lang="ja"/></programme>
+<programme start="20260426073000 +0000" stop="20260426073800 +0000" channel="TokyoMX2.jp"><title lang="ja">ヒーリングタイム＆ヘッドラインニュース</title><desc lang="ja">にゃんタレＭｏｖｉｅ</desc></programme>
+<programme start="20260426073800 +0000" stop="20260426080000 +0000" channel="TokyoMX2.jp"><title lang="ja">ごりやくさん【字】</title><desc lang="ja">宇都宮二荒山神社</desc></programme>
+<programme start="20260426080000 +0000" stop="20260426083000 +0000" channel="TokyoMX2.jp"><title lang="ja">ＭＸショッピング</title><desc lang="ja"/></programme>
+<programme start="20260426083000 +0000" stop="20260426090000 +0000" channel="TokyoMX2.jp"><title lang="ja">ＭＸショッピング</title><desc lang="ja"/></programme>
 <programme start="20260426090000 +0000" stop="20260426093800 +0000" channel="TokyoMX2.jp"><title lang="ja">ヒーリングタイム＆ヘッドラインニュース</title><desc lang="ja">東京点描 谷中・根津・千駄木</desc></programme>
 <programme start="20260426093800 +0000" stop="20260426100000 +0000" channel="TokyoMX2.jp"><title lang="ja">ごりやくさん【再】【字】</title><desc lang="ja">愛宕神社</desc></programme>
 <programme start="20260426100000 +0000" stop="20260426103000 +0000" channel="TokyoMX2.jp"><title lang="ja">ＭＸショッピング</title><desc lang="ja"/></programme>
@@ -48,21 +55,21 @@
 <programme start="20260426000000 +0000" stop="20260426003000 +0000" channel="TokyoMX1.jp"><title lang="ja">お買い物情報</title><desc lang="ja"/></programme>
 <programme start="20260426003000 +0000" stop="20260426010000 +0000" channel="TokyoMX1.jp"><title lang="ja">ＭＸショッピング</title><desc lang="ja"/></programme>
 <programme start="20260426010000 +0000" stop="20260426013000 +0000" channel="TokyoMX1.jp"><title lang="ja">ＭＸショッピング</title><desc lang="ja"/></programme>
-<programme start="20260426013000 +0000" stop="20260426020000 +0000" channel="TokyoMX1.jp"><title lang="ja">ドルアーガの塔～ｔｈｅ　Ａｅｇｉｓ　ｏｆ　ＵＲＵＫ～　★第３話「旅立ちの前に」【再】</title><desc lang="ja">全ての願いが叶う伝説の秘宝“ブルークリスタルロッド”を求め、邪神の眠る塔に挑む者たちがいた。…人は彼らを「登頂者」と呼んだ。</desc></programme>
+<programme start="20260426013000 +0000" stop="20260426020000 +0000" channel="TokyoMX1.jp"><title lang="ja">ドルアーガの塔～ｔｈｅ Ａｅｇｉｓ ｏｆ ＵＲＵＫ～ ★第３話「旅立ちの前に」【再】</title><desc lang="ja">全ての願いが叶う伝説の秘宝“ブルークリスタルロッド”を求め、邪神の眠る塔に挑む者たちがいた。…人は彼らを「登頂者」と呼んだ。</desc></programme>
 <programme start="20260426020000 +0000" stop="20260426023000 +0000" channel="TokyoMX1.jp"><title lang="ja">ＭＸショッピング</title><desc lang="ja"/></programme>
-<programme start="20260426023000 +0000" stop="20260426025500 +0000" channel="TokyoMX1.jp"><title lang="ja">いぎなり放送中！　★警察学校１日入学！アイドルが機動隊に挑戦!?</title><desc lang="ja">いぎなり東北産が宮城県警察学校で逮捕術を体験！熱血教官の指導に思わず悲鳴!?後半は宮城の伝統野菜をＰＲ！仙台雪菜とトマトで旨み満点の雪菜ポリタンに感動。</desc></programme>
+<programme start="20260426023000 +0000" stop="20260426025500 +0000" channel="TokyoMX1.jp"><title lang="ja">いぎなり放送中！ ★警察学校１日入学！アイドルが機動隊に挑戦!?</title><desc lang="ja">いぎなり東北産が宮城県警察学校で逮捕術を体験！熱血教官の指導に思わず悲鳴!?後半は宮城の伝統野菜をＰＲ！仙台雪菜とトマトで旨み満点の雪菜ポリタンに感動。</desc></programme>
 <programme start="20260426025500 +0000" stop="20260426030000 +0000" channel="TokyoMX1.jp"><title lang="ja">番組ガイド</title><desc lang="ja"/></programme>
 <programme start="20260426030000 +0000" stop="20260426032900 +0000" channel="TokyoMX1.jp"><title lang="ja">ＭＸショッピング</title><desc lang="ja"/></programme>
-<programme start="20260426032900 +0000" stop="20260426035500 +0000" channel="TokyoMX1.jp"><title lang="ja">ＬＯＶＥ　ＨＯＫＫＡＩＤＯ　★札幌で誕生日の人がお得になるスポット雪道運転に挑戦</title><desc lang="ja">札幌で誕生日をお得に祝おう！さっぽろテレビ塔で入場料が無料＆プレゼントも！希少部位も♪焼肉店のボリューム満点肉ケーキ！桑園自動車学校で高田秋が雪道運転に挑戦！</desc></programme>
-<programme start="20260426035500 +0000" stop="20260426040000 +0000" channel="TokyoMX1.jp"><title lang="ja">ＴＯＫＹＯ　ＭＸ　ＮＥＷＳ</title><desc lang="ja">東京の様々なニュースをお伝えします。</desc></programme>
+<programme start="20260426032900 +0000" stop="20260426035500 +0000" channel="TokyoMX1.jp"><title lang="ja">ＬＯＶＥ ＨＯＫＫＡＩＤＯ ★札幌で誕生日の人がお得になるスポット雪道運転に挑戦</title><desc lang="ja">札幌で誕生日をお得に祝おう！さっぽろテレビ塔で入場料が無料＆プレゼントも！希少部位も♪焼肉店のボリューム満点肉ケーキ！桑園自動車学校で高田秋が雪道運転に挑戦！</desc></programme>
+<programme start="20260426035500 +0000" stop="20260426040000 +0000" channel="TokyoMX1.jp"><title lang="ja">ＴＯＫＹＯ ＭＸ ＮＥＷＳ</title><desc lang="ja">東京の様々なニュースをお伝えします。</desc></programme>
 <programme start="20260426040000 +0000" stop="20260426043000 +0000" channel="TokyoMX1.jp"><title lang="ja">ＭＸショッピング</title><desc lang="ja"/></programme>
 <programme start="20260426043000 +0000" stop="20260426050000 +0000" channel="TokyoMX1.jp"><title lang="ja">ＭＸショッピング</title><desc lang="ja"/></programme>
 <programme start="20260426050000 +0000" stop="20260426053000 +0000" channel="TokyoMX1.jp"><title lang="ja">ＭＸショッピング</title><desc lang="ja"/></programme>
-<programme start="20260426053000 +0000" stop="20260426060000 +0000" channel="TokyoMX1.jp"><title lang="ja">水曜どうでしょうプレミア　★ユーコン川１６０キロ～地獄の６日間～④【字】</title><desc lang="ja">おなじみの「水曜どうでしょう」を新たに映像修復し、これまでの放送に無いシーンも加え再編集したシリーズ。</desc></programme>
+<programme start="20260426053000 +0000" stop="20260426060000 +0000" channel="TokyoMX1.jp"><title lang="ja">水曜どうでしょうプレミア ★ユーコン川１６０キロ～地獄の６日間～④【字】</title><desc lang="ja">おなじみの「水曜どうでしょう」を新たに映像修復し、これまでの放送に無いシーンも加え再編集したシリーズ。</desc></programme>
 <programme start="20260426060000 +0000" stop="20260426063000 +0000" channel="TokyoMX1.jp"><title lang="ja">ＭＸショッピング</title><desc lang="ja"/></programme>
 <programme start="20260426063000 +0000" stop="20260426065900 +0000" channel="TokyoMX1.jp"><title lang="ja">ＭＸショッピング</title><desc lang="ja"/></programme>
 <programme start="20260426065900 +0000" stop="20260426070000 +0000" channel="TokyoMX1.jp"><title lang="ja">番組ガイド</title><desc lang="ja"/></programme>
-<programme start="20260426070000 +0000" stop="20260426075400 +0000" channel="TokyoMX1.jp"><title lang="ja">ＢＯＡＴ　ＲＡＣＥプレミア　ＰＧⅠ第２７回マスターズチャンピオン～優勝戦～</title><desc lang="ja">ＢＯＡＴ ＲＡＣＥ 宮島</desc></programme>
+<programme start="20260426070000 +0000" stop="20260426075400 +0000" channel="TokyoMX1.jp"><title lang="ja">ＢＯＡＴ ＲＡＣＥプレミア ＰＧⅠ第２７回マスターズチャンピオン～優勝戦～</title><desc lang="ja">ＢＯＡＴ ＲＡＣＥ 宮島</desc></programme>
 <programme start="20260426075400 +0000" stop="20260426080000 +0000" channel="TokyoMX1.jp"><title lang="ja">ＭＸショッピング</title><desc lang="ja"/></programme>
 <programme start="20260426080000 +0000" stop="20260426085500 +0000" channel="TokyoMX1.jp"><title lang="ja">探偵！ナイトスクープ【解】</title><desc lang="ja">特命局長に横山裕が就任。依頼は『耳が聞こえないお笑いファン』、『１４頭のヤギと暮らす田舎の祖父』、『父の形見のアタッシュケースを開けて』</desc></programme>
 <programme start="20260426085500 +0000" stop="20260426090000 +0000" channel="TokyoMX1.jp"><title lang="ja">ＴＯＫＹＯ　ＭＸ　ＮＥＷＳ</title><desc lang="ja">東京の様々なニュースをお伝えします。</desc></programme>
