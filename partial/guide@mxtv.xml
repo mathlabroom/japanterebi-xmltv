@@ -19,7 +19,8 @@
 <programme start="20260502033000 +0000" stop="20260502040000 +0000" channel="TokyoMX2.jp"><title lang="ja">ＭＸショッピング</title><desc lang="ja"/></programme>
 <programme start="20260502040000 +0000" stop="20260502045500 +0000" channel="TokyoMX2.jp"><title lang="ja">よしもと新喜劇</title><desc lang="ja">愛の結婚ウォーズ!?</desc></programme>
 <programme start="20260502045500 +0000" stop="20260502045900 +0000" channel="TokyoMX2.jp"><title lang="ja">ヒーリングタイム＆ヘッドラインニュース</title><desc lang="ja">東京の伝統工芸篇</desc></programme>
-<programme start="20260502045900 +0000" stop="20260502090000 +0000" channel="TokyoMX2.jp"><title lang="ja">パ・リーグ応援宣言！ホークス中継２０２６ ★ソフトバンク×楽天</title><desc lang="ja">「福岡ソフトバンクホークス×東北楽天ゴールデンイーグルス」～みずほＰａｙＰａｙドーム福岡</desc></programme>
+<programme start="20260502045900 +0000" stop="20260502083000 +0000" channel="TokyoMX2.jp"><title lang="ja">パ・リーグ応援宣言！ホークス中継２０２６ ★ソフトバンク×楽天</title><desc lang="ja">「福岡ソフトバンクホークス×東北楽天ゴールデンイーグルス」～みずほＰａｙＰａｙドーム福岡</desc></programme>
+<programme start="20260502083000 +0000" stop="20260502090000 +0000" channel="TokyoMX2.jp"><title lang="ja">ＭＸショッピング</title><desc lang="ja"/></programme>
 <programme start="20260502090000 +0000" stop="20260502093000 +0000" channel="TokyoMX2.jp"><title lang="ja">ＭＸショッピング</title><desc lang="ja"/></programme>
 <programme start="20260502093000 +0000" stop="20260502093800 +0000" channel="TokyoMX2.jp"><title lang="ja">ヒーリングタイム＆ヘッドラインニュース</title><desc lang="ja">東京点描 谷中・根津・千駄木</desc></programme>
 <programme start="20260502093800 +0000" stop="20260502100000 +0000" channel="TokyoMX2.jp"><title lang="ja">ごりやくさん【再】【字】</title><desc lang="ja">賀茂御祖神社（下鴨神社）</desc></programme>
@@ -67,12 +68,12 @@
 <programme start="20260502065900 +0000" stop="20260502070000 +0000" channel="TokyoMX1.jp"><title lang="ja">イベントガイド</title><desc lang="ja"/></programme>
 <programme start="20260502070000 +0000" stop="20260502073000 +0000" channel="TokyoMX1.jp"><title lang="ja">吉田類の酒場放浪記</title><desc lang="ja">新宿御苑前「金太郎」／馬橋「居酒屋しずこ」</desc></programme>
 <programme start="20260502073000 +0000" stop="20260502080000 +0000" channel="TokyoMX1.jp"><title lang="ja">ＭＸショッピング</title><desc lang="ja"/></programme>
-<programme start="20260502080000 +0000" stop="20260502085500 +0000" channel="TokyoMX1.jp"><title lang="ja">【生】田村淳のキキタイ！　★観光地めぐる賛否、海外資本流入・二重価格をどうする？</title><desc lang="ja">観光地めぐる賛否、海外資本流入・二重価格をどうする？▼田村淳／中村仁美▼未来調達研究所・坂口孝則／国際カジノ研究所・木曽崇／フリーアナ・登坂淳一／国本梨紗</desc></programme>
-<programme start="20260502085500 +0000" stop="20260502090000 +0000" channel="TokyoMX1.jp"><title lang="ja">ＴＯＫＹＯ　ＭＸ　ＮＥＷＳ</title><desc lang="ja">東京の様々なニュースをお伝えします。</desc></programme>
-<programme start="20260502090000 +0000" stop="20260502093000 +0000" channel="TokyoMX1.jp"><title lang="ja">サバンナ高橋の、サウナの神さま　★ゲスト／ノンスタイル井上裕介</title><desc lang="ja">今回“ととのう”ゲストは、ノンスタイル・井上裕介。▼目指していたのは“板東英二”!?▼結婚４年目、悩みは…妻の“推し活”!?▼“美容ナルシスト”芸人の素顔とは!?</desc></programme>
+<programme start="20260502080000 +0000" stop="20260502085500 +0000" channel="TokyoMX1.jp"><title lang="ja">【生】田村淳のキキタイ！ ★観光地めぐる賛否、海外資本流入・二重価格をどうする？</title><desc lang="ja">観光地めぐる賛否、海外資本流入・二重価格をどうする？▼田村淳／中村仁美▼未来調達研究所・坂口孝則／国際カジノ研究所・木曽崇／フリーアナ・登坂淳一／国本梨紗</desc></programme>
+<programme start="20260502085500 +0000" stop="20260502090000 +0000" channel="TokyoMX1.jp"><title lang="ja">ＴＯＫＹＯ ＭＸ ＮＥＷＳ</title><desc lang="ja">東京の様々なニュースをお伝えします。</desc></programme>
+<programme start="20260502090000 +0000" stop="20260502093000 +0000" channel="TokyoMX1.jp"><title lang="ja">サバンナ高橋の、サウナの神さま ★ゲスト／ノンスタイル井上裕介</title><desc lang="ja">今回“ととのう”ゲストは、ノンスタイル・井上裕介。▼目指していたのは“板東英二”!?▼結婚４年目、悩みは…妻の“推し活”!?▼“美容ナルシスト”芸人の素顔とは!?</desc></programme>
 <programme start="20260502093000 +0000" stop="20260502100000 +0000" channel="TokyoMX1.jp"><title lang="ja">お買い物情報</title><desc lang="ja"/></programme>
-<programme start="20260502100000 +0000" stop="20260502120000 +0000" channel="TokyoMX1.jp"><title lang="ja">ラグビー　リーグワン２０２５－２６　★第１７節「トヨタＶ×東京ＳＧ」</title><desc lang="ja">国内ラグビー最高峰の戦い、リーグワン第１７節！５位「東京サントリーサンゴリアス」が逆転プレーオフ進出を狙う７位「トヨタヴェルブリッツ」との大一番に臨む。</desc></programme>
-<programme start="20260502120000 +0000" stop="20260502123000 +0000" channel="TokyoMX1.jp"><title lang="ja">真弓＆勝成のＥｘｐｅｒｔＧＯＬＦ　★小竹莉乃①</title><desc lang="ja">マッチプレーの鬼・高橋勝成プロと、アマチュアトップレベルの真弓明信がタッグを組んでラウンド＆レッスン。ゲストと共に視聴者の技量も向上すること必至のシリーズです！</desc></programme>
+<programme start="20260502100000 +0000" stop="20260502120000 +0000" channel="TokyoMX1.jp"><title lang="ja">ラグビー リーグワン２０２５－２６ ★第１７節「トヨタＶ×東京ＳＧ」</title><desc lang="ja">国内ラグビー最高峰の戦い、リーグワン第１７節！５位「東京サントリーサンゴリアス」が逆転プレーオフ進出を狙う７位「トヨタヴェルブリッツ」との大一番に臨む。</desc></programme>
+<programme start="20260502120000 +0000" stop="20260502123000 +0000" channel="TokyoMX1.jp"><title lang="ja">真弓＆勝成のＥｘｐｅｒｔＧＯＬＦ ★小竹莉乃①</title><desc lang="ja">マッチプレーの鬼・高橋勝成プロと、アマチュアトップレベルの真弓明信がタッグを組んでラウンド＆レッスン。ゲストと共に視聴者の技量も向上すること必至のシリーズです！</desc></programme>
 <programme start="20260502123000 +0000" stop="20260502130000 +0000" channel="TokyoMX1.jp"><title lang="ja">音ボケＰＯＰＳ　★今週のゲストはＬＩＮＤＢＥＲＧより、渡瀬マキ、平川達也が登場！</title><desc lang="ja">今週は、三田友梨佳、大地洋輔（ダイノジ）、橘ゆりかがゲストに旬なアーティストをお招きし、それぞれの音楽性や人間性を深掘りしていきます！</desc></programme>
 <programme start="20260502130000 +0000" stop="20260502133000 +0000" channel="TokyoMX1.jp"><title lang="ja">最強の職業は勇者でも賢者でもなく鑑定士（仮）らしいですよ？　＃５</title><desc lang="ja">＃５「異常に似合ってます」</desc></programme>
 <programme start="20260502133000 +0000" stop="20260502140000 +0000" channel="TokyoMX1.jp"><title lang="ja">よわよわ先生　＃４</title><desc lang="ja">よわよわで、かわいい先生との、ちょっぴり刺激的なラブコメディ！</desc></programme>
