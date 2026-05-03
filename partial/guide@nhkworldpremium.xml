@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20260503">
 <channel id="NHKWorldPremium.jp"><display-name>NHK World Premium</display-name><icon src="https://i.imgur.com/4ESi2La.png"/><url>https://nhkworldpremium.com</url></channel>
 <channel id="NHKWorldPremium.jp"><display-name>NHK World Premium</display-name><icon src="https://i.imgur.com/4ESi2La.png"/><url>https://nhkworldpremium.com</url></channel>
+<programme start="20260502150000 +0000" stop="20260502160000 +0000" channel="NHKWorldPremium.jp"><title lang="en">TBA</title></programme>
 <programme start="20260502160000 +0000" stop="20260502162700 +0000" channel="NHKWorldPremium.jp"><title lang="en">NHK Regional Showcases: Hokuriku Special</title></programme>
 <programme start="20260502162700 +0000" stop="20260502163000 +0000" channel="NHKWorldPremium.jp"><title lang="en">Mini Program</title></programme>
 <programme start="20260502163000 +0000" stop="20260502170000 +0000" channel="NHKWorldPremium.jp"><title lang="en">Japanese Entertainment Encyclopedia</title></programme>
@@ -63,6 +64,7 @@
 <programme start="20260503134500 +0000" stop="20260503144300 +0000" channel="NHKWorldPremium.jp"><title lang="en">Journey of the Heart Across Japan-Goal!</title></programme>
 <programme start="20260503144300 +0000" stop="20260503144500 +0000" channel="NHKWorldPremium.jp"><title lang="en">World Weather</title></programme>
 <programme start="20260503144500 +0000" stop="20260503153500 +0000" channel="NHKWorldPremium.jp"><title lang="en">Sunday Sports News</title></programme>
+<programme start="20260502150000 +0000" stop="20260502160000 +0000" channel="NHKWorldPremium.jp"><title lang="ja">未定</title></programme>
 <programme start="20260502160000 +0000" stop="20260502162700 +0000" channel="NHKWorldPremium.jp"><title lang="ja">【NHK地域局発】北陸スペシャル</title><sub-title lang="ja">北陸を変える！“寿司（すし）パワー”</sub-title></programme>
 <programme start="20260502162700 +0000" stop="20260502163000 +0000" channel="NHKWorldPremium.jp"><title lang="ja">ミニ番組</title></programme>
 <programme start="20260502163000 +0000" stop="20260502170000 +0000" channel="NHKWorldPremium.jp"><title lang="ja">桂文枝の演芸図鑑</title><sub-title lang="ja">中村鴈治郎　マイスイートメモリーズ　入船亭扇遊</sub-title></programme>
