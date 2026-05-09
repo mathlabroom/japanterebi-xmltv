@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20260509">
 <channel id="NHKWorldPremium.jp"><display-name>NHK World Premium</display-name><icon src="https://i.imgur.com/4ESi2La.png"/><url>https://nhkworldpremium.com</url></channel>
 <channel id="NHKWorldPremium.jp"><display-name>NHK World Premium</display-name><icon src="https://i.imgur.com/4ESi2La.png"/><url>https://nhkworldpremium.com</url></channel>
+<programme start="20260508150000 +0000" stop="20260508152900 +0000" channel="NHKWorldPremium.jp"><title lang="en">TBA</title></programme>
 <programme start="20260508152900 +0000" stop="20260508153000 +0000" channel="NHKWorldPremium.jp"><title lang="en">World Weather</title></programme>
 <programme start="20260508153000 +0000" stop="20260508161300 +0000" channel="NHKWorldPremium.jp"><title lang="en">Samurai Drama Selections &quot;Crossing of Heat Haze&quot;</title><sub-title lang="en">Ep. 2</sub-title></programme>
 <programme start="20260508161300 +0000" stop="20260508161500 +0000" channel="NHKWorldPremium.jp"><title lang="en">Mini Program</title></programme>
@@ -74,6 +75,7 @@
 <programme start="20260509135500 +0000" stop="20260509140000 +0000" channel="NHKWorldPremium.jp"><title lang="en">News &amp; Weather</title></programme>
 <programme start="20260509140000 +0000" stop="20260509143000 +0000" channel="NHKWorldPremium.jp"><title lang="en">Venue101</title></programme>
 <programme start="20260509143000 +0000" stop="20260509150000 +0000" channel="NHKWorldPremium.jp"><title lang="en">In-Depth News Seminar Year-End Special</title><sub-title lang="en">&quot;Tips for Recent Graduates: AI&quot;</sub-title></programme>
+<programme start="20260508150000 +0000" stop="20260508152900 +0000" channel="NHKWorldPremium.jp"><title lang="ja">未定</title></programme>
 <programme start="20260508152900 +0000" stop="20260508153000 +0000" channel="NHKWorldPremium.jp"><title lang="ja">ワールドウェザー</title></programme>
 <programme start="20260508153000 +0000" stop="20260508161300 +0000" channel="NHKWorldPremium.jp"><title lang="ja">【特選！時代劇】陽炎の辻～居眠り磐音江戸双紙～</title><sub-title lang="ja">（2）「絆（きずな）」</sub-title></programme>
 <programme start="20260508161300 +0000" stop="20260508161500 +0000" channel="NHKWorldPremium.jp"><title lang="ja">ミニ番組</title></programme>
