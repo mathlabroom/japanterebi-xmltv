@@ -431,7 +431,7 @@
 <programme start="20260515093500 +0000" stop="20260515095900 +0000" channel="NHKWorldPremium.jp"><title lang="ja">おかあさんといっしょ</title></programme>
 <programme start="20260515095900 +0000" stop="20260515100000 +0000" channel="NHKWorldPremium.jp"><title lang="ja">ワールドウェザー</title></programme>
 <programme start="20260515100000 +0000" stop="20260515103000 +0000" channel="NHKWorldPremium.jp"><title lang="ja">NHKニュース7</title></programme>
-<programme start="20260515103000 +0000" stop="20260515105700 +0000" channel="NHKWorldPremium.jp"><title lang="ja">首都圏情報　ネタドリ！</title></programme>
+<programme start="20260515103000 +0000" stop="20260515105700 +0000" channel="NHKWorldPremium.jp"><title lang="ja">首都圏情報　ネタドリ！</title><sub-title lang="ja">データセンターが家の近くに？建設ラッシュ どう共存</sub-title></programme>
 <programme start="20260515105700 +0000" stop="20260515114300 +0000" channel="NHKWorldPremium.jp"><title lang="ja">チコちゃんに叱られる！</title><sub-title lang="ja">▽ギョーザの謎▽ヤンキーって？▽新聞の端っこ</sub-title></programme>
 <programme start="20260515114300 +0000" stop="20260515114500 +0000" channel="NHKWorldPremium.jp"><title lang="ja">ワールドウェザー</title></programme>
 <programme start="20260515114500 +0000" stop="20260515120000 +0000" channel="NHKWorldPremium.jp"><title lang="ja">首都圏ニュース845</title></programme>
@@ -562,7 +562,8 @@
 <programme start="20260517162500 +0000" stop="20260517163000 +0000" channel="NHKWorldPremium.jp"><title lang="en">Songs for Everyone</title></programme>
 <programme start="20260517163000 +0000" stop="20260517170000 +0000" channel="NHKWorldPremium.jp"><title lang="en">Natsui Itsuki&apos;s Haiku Trip!</title><sub-title lang="en">&quot;Kumamoto Prefecture&quot; Part 1</sub-title></programme>
 <programme start="20260517170000 +0000" stop="20260517174300 +0000" channel="NHKWorldPremium.jp"><title lang="en">Hidden Japan</title><sub-title lang="en">&quot;Iriomote: The Life-Weaving Island&quot;</sub-title></programme>
-<programme start="20260517174300 +0000" stop="20260517180000 +0000" channel="NHKWorldPremium.jp"><title lang="en">PREMIUM SELECTIONS</title></programme>
+<programme start="20260517174300 +0000" stop="20260517174500 +0000" channel="NHKWorldPremium.jp"><title lang="en">Mini Program</title></programme>
+<programme start="20260517174500 +0000" stop="20260517180000 +0000" channel="NHKWorldPremium.jp"><title lang="en">RAMEN JAPAN 15min.</title></programme>
 <programme start="20260517180000 +0000" stop="20260517183000 +0000" channel="NHKWorldPremium.jp"><title lang="en">What the Villains Have to Say</title></programme>
 <programme start="20260517183000 +0000" stop="20260517190000 +0000" channel="NHKWorldPremium.jp"><title lang="en">SCIENCE ZERO</title></programme>
 <programme start="20260517190000 +0000" stop="20260517193000 +0000" channel="NHKWorldPremium.jp"><title lang="en">Fish Masters</title></programme>
@@ -574,7 +575,7 @@
 <programme start="20260517205500 +0000" stop="20260517210000 +0000" channel="NHKWorldPremium.jp"><title lang="en">World Weather</title></programme>
 <programme start="20260517210000 +0000" stop="20260517220000 +0000" channel="NHKWorldPremium.jp"><title lang="en">News: Good Morning, Japan</title></programme>
 <programme start="20260517220000 +0000" stop="20260517230000 +0000" channel="NHKWorldPremium.jp"><title lang="en">News: Good Morning, Japan</title></programme>
-<programme start="20260517230000 +0000" stop="20260517231500 +0000" channel="NHKWorldPremium.jp"><title lang="en">Drama Serial &quot;The Scent of the Wind&quot;</title><sub-title lang="en">Ep. 36</sub-title></programme>
+<programme start="20260517230000 +0000" stop="20260517231500 +0000" channel="NHKWorldPremium.jp"><title lang="en">Drama Serial &quot;The Scent of the Wind&quot;</title></programme>
 <programme start="20260517231500 +0000" stop="20260518005400 +0000" channel="NHKWorldPremium.jp"><title lang="en">asaichi</title></programme>
 <programme start="20260518005400 +0000" stop="20260518005500 +0000" channel="NHKWorldPremium.jp"><title lang="en">World Weather</title></programme>
 <programme start="20260518005500 +0000" stop="20260518010000 +0000" channel="NHKWorldPremium.jp"><title lang="en">Exercise for Everyone</title></programme>
@@ -588,7 +589,7 @@
 <programme start="20260518032000 +0000" stop="20260518032800 +0000" channel="NHKWorldPremium.jp"><title lang="en">Information Worth Knowing from the News Commentator Bureau</title></programme>
 <programme start="20260518032800 +0000" stop="20260518033000 +0000" channel="NHKWorldPremium.jp"><title lang="en">Mini Program</title></programme>
 <programme start="20260518033000 +0000" stop="20260518034500 +0000" channel="NHKWorldPremium.jp"><title lang="en">Drama Serial &quot;Massan&quot; Encore</title><sub-title lang="en">Ep. 99</sub-title></programme>
-<programme start="20260518034500 +0000" stop="20260518040000 +0000" channel="NHKWorldPremium.jp"><title lang="en">Drama Serial &quot;The Scent of the Wind&quot;</title><sub-title lang="en">Ep. 36</sub-title></programme>
+<programme start="20260518034500 +0000" stop="20260518040000 +0000" channel="NHKWorldPremium.jp"><title lang="en">Drama Serial &quot;The Scent of the Wind&quot;</title></programme>
 <programme start="20260518040000 +0000" stop="20260518040500 +0000" channel="NHKWorldPremium.jp"><title lang="en">News</title></programme>
 <programme start="20260518040500 +0000" stop="20260518055000 +0000" channel="NHKWorldPremium.jp"><title lang="en">News Around Japan</title></programme>
 <programme start="20260518055000 +0000" stop="20260518055500 +0000" channel="NHKWorldPremium.jp"><title lang="en">World Weather</title></programme>
@@ -626,7 +627,7 @@
 <programme start="20260518174500 +0000" stop="20260518180000 +0000" channel="NHKWorldPremium.jp"><title lang="ja">みいつけた！</title></programme>
 <programme start="20260518180000 +0000" stop="20260518182500 +0000" channel="NHKWorldPremium.jp"><title lang="ja">おかあさんといっしょ</title></programme>
 <programme start="20260518182500 +0000" stop="20260518183000 +0000" channel="NHKWorldPremium.jp"><title lang="ja">みちたん</title></programme>
-<programme start="20260518183000 +0000" stop="20260518184500 +0000" channel="NHKWorldPremium.jp"><title lang="ja">連続テレビ小説「風、薫る」</title><sub-title lang="ja">（36）</sub-title></programme>
+<programme start="20260518183000 +0000" stop="20260518184500 +0000" channel="NHKWorldPremium.jp"><title lang="ja">連続テレビ小説「風、薫る」</title></programme>
 <programme start="20260518184500 +0000" stop="20260518191200 +0000" channel="NHKWorldPremium.jp"><title lang="ja">クローズアップ現代</title></programme>
 <programme start="20260518191200 +0000" stop="20260518191500 +0000" channel="NHKWorldPremium.jp"><title lang="ja">ワールドウェザー</title></programme>
 <programme start="20260518191500 +0000" stop="20260518200000 +0000" channel="NHKWorldPremium.jp"><title lang="ja">鶴瓶の家族に乾杯</title></programme>
@@ -692,7 +693,7 @@
 <programme start="20260518174500 +0000" stop="20260518180000 +0000" channel="NHKWorldPremium.jp"><title lang="en">Kid&apos;s Discovery</title></programme>
 <programme start="20260518180000 +0000" stop="20260518182500 +0000" channel="NHKWorldPremium.jp"><title lang="en">With Mother</title></programme>
 <programme start="20260518182500 +0000" stop="20260518183000 +0000" channel="NHKWorldPremium.jp"><title lang="en">See, Learn, Explore--A Deep Travelogue in Tohoku</title></programme>
-<programme start="20260518183000 +0000" stop="20260518184500 +0000" channel="NHKWorldPremium.jp"><title lang="en">Drama Serial &quot;The Scent of the Wind&quot;</title><sub-title lang="en">Ep. 36</sub-title></programme>
+<programme start="20260518183000 +0000" stop="20260518184500 +0000" channel="NHKWorldPremium.jp"><title lang="en">Drama Serial &quot;The Scent of the Wind&quot;</title></programme>
 <programme start="20260518184500 +0000" stop="20260518191200 +0000" channel="NHKWorldPremium.jp"><title lang="en">Today&apos;s Close-up</title></programme>
 <programme start="20260518191200 +0000" stop="20260518191500 +0000" channel="NHKWorldPremium.jp"><title lang="en">World Weather</title></programme>
 <programme start="20260518191500 +0000" stop="20260518200000 +0000" channel="NHKWorldPremium.jp"><title lang="en">Tsurube&apos;s Salute to Families</title></programme>
@@ -750,7 +751,8 @@
 <programme start="20260517162500 +0000" stop="20260517163000 +0000" channel="NHKWorldPremium.jp"><title lang="ja">みんなのうた</title></programme>
 <programme start="20260517163000 +0000" stop="20260517170000 +0000" channel="NHKWorldPremium.jp"><title lang="ja">夏井いつきのよみ旅！</title><sub-title lang="ja">in熊本　熊本地震10年　心ひとつに</sub-title></programme>
 <programme start="20260517170000 +0000" stop="20260517174300 +0000" channel="NHKWorldPremium.jp"><title lang="ja">シリーズHidden Japan</title><sub-title lang="ja">西表　生命紡ぐ島</sub-title></programme>
-<programme start="20260517174300 +0000" stop="20260517180000 +0000" channel="NHKWorldPremium.jp"><title lang="ja">PREMIUM SELECTIONS</title></programme>
+<programme start="20260517174300 +0000" stop="20260517174500 +0000" channel="NHKWorldPremium.jp"><title lang="ja">ミニ番組</title></programme>
+<programme start="20260517174500 +0000" stop="20260517180000 +0000" channel="NHKWorldPremium.jp"><title lang="ja">ラーメンJAPAN 15min.</title></programme>
 <programme start="20260517180000 +0000" stop="20260517183000 +0000" channel="NHKWorldPremium.jp"><title lang="ja">ヴィランの言い分</title><sub-title lang="ja">疲労</sub-title></programme>
 <programme start="20260517183000 +0000" stop="20260517190000 +0000" channel="NHKWorldPremium.jp"><title lang="ja">サイエンスZERO</title><sub-title lang="ja">空の旅をささえる！“航空安全技術”</sub-title></programme>
 <programme start="20260517190000 +0000" stop="20260517193000 +0000" channel="NHKWorldPremium.jp"><title lang="ja">ギョギョッとサカナ★スター</title><sub-title lang="ja">ホシザメ</sub-title></programme>
@@ -762,7 +764,7 @@
 <programme start="20260517205500 +0000" stop="20260517210000 +0000" channel="NHKWorldPremium.jp"><title lang="ja">ワールドウェザー</title></programme>
 <programme start="20260517210000 +0000" stop="20260517220000 +0000" channel="NHKWorldPremium.jp"><title lang="ja">NHKニュース おはよう日本（6時台）</title></programme>
 <programme start="20260517220000 +0000" stop="20260517230000 +0000" channel="NHKWorldPremium.jp"><title lang="ja">NHKニュース おはよう日本（7時台）</title></programme>
-<programme start="20260517230000 +0000" stop="20260517231500 +0000" channel="NHKWorldPremium.jp"><title lang="ja">連続テレビ小説「風、薫る」</title><sub-title lang="ja">（36）</sub-title></programme>
+<programme start="20260517230000 +0000" stop="20260517231500 +0000" channel="NHKWorldPremium.jp"><title lang="ja">連続テレビ小説「風、薫る」</title></programme>
 <programme start="20260517231500 +0000" stop="20260518005400 +0000" channel="NHKWorldPremium.jp"><title lang="ja">あさイチ</title></programme>
 <programme start="20260518005400 +0000" stop="20260518005500 +0000" channel="NHKWorldPremium.jp"><title lang="ja">ワールドウェザー</title></programme>
 <programme start="20260518005500 +0000" stop="20260518010000 +0000" channel="NHKWorldPremium.jp"><title lang="ja">みんなの体操</title></programme>
@@ -776,7 +778,7 @@
 <programme start="20260518032000 +0000" stop="20260518032800 +0000" channel="NHKWorldPremium.jp"><title lang="ja">みみより！解説</title></programme>
 <programme start="20260518032800 +0000" stop="20260518033000 +0000" channel="NHKWorldPremium.jp"><title lang="ja">ミニ番組</title></programme>
 <programme start="20260518033000 +0000" stop="20260518034500 +0000" channel="NHKWorldPremium.jp"><title lang="ja">連続テレビ小説・アンコール「マッサン」</title><sub-title lang="ja">（99）</sub-title></programme>
-<programme start="20260518034500 +0000" stop="20260518040000 +0000" channel="NHKWorldPremium.jp"><title lang="ja">連続テレビ小説「風、薫る」</title><sub-title lang="ja">（36）</sub-title></programme>
+<programme start="20260518034500 +0000" stop="20260518040000 +0000" channel="NHKWorldPremium.jp"><title lang="ja">連続テレビ小説「風、薫る」</title></programme>
 <programme start="20260518040000 +0000" stop="20260518040500 +0000" channel="NHKWorldPremium.jp"><title lang="ja">ニュース</title></programme>
 <programme start="20260518040500 +0000" stop="20260518055000 +0000" channel="NHKWorldPremium.jp"><title lang="ja">列島ニュース</title></programme>
 <programme start="20260518055000 +0000" stop="20260518055500 +0000" channel="NHKWorldPremium.jp"><title lang="ja">ワールドウェザー</title></programme>
