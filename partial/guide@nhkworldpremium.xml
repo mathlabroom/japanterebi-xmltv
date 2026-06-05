@@ -28,8 +28,7 @@
 <programme start="20260605003000 +0000" stop="20260605004500 +0000" channel="NHKWorldPremium.jp"><title lang="ja">ラーメンJAPAN 15min.</title></programme>
 <programme start="20260605004500 +0000" stop="20260605005400 +0000" channel="NHKWorldPremium.jp"><title lang="ja">ミニ番組</title></programme>
 <programme start="20260605005400 +0000" stop="20260605005500 +0000" channel="NHKWorldPremium.jp"><title lang="ja">ワールドウェザー</title></programme>
-<programme start="20260605005500 +0000" stop="20260605010000 +0000" channel="NHKWorldPremium.jp"><title lang="ja">みんなの体操</title></programme>
-<programme start="20260605010000 +0000" stop="20260605010500 +0000" channel="NHKWorldPremium.jp"><title lang="ja">ニュース・気象情報</title></programme>
+<programme start="20260605005500 +0000" stop="20260605010500 +0000" channel="NHKWorldPremium.jp"><title lang="ja">みんなの体操</title></programme>
 <programme start="20260605010500 +0000" stop="20260605015000 +0000" channel="NHKWorldPremium.jp"><title lang="ja">【土曜ドラマ】ムショラン三ツ星</title><sub-title lang="ja">（2）俺んちのカレー</sub-title></programme>
 <programme start="20260605015000 +0000" stop="20260605015500 +0000" channel="NHKWorldPremium.jp"><title lang="ja">ミニ番組</title></programme>
 <programme start="20260605015500 +0000" stop="20260605024500 +0000" channel="NHKWorldPremium.jp"><title lang="ja">NHKスペシャル</title><sub-title lang="ja">ヒグマ　異変の海に生きる</sub-title></programme>
@@ -96,8 +95,7 @@
 <programme start="20260605003000 +0000" stop="20260605004500 +0000" channel="NHKWorldPremium.jp"><title lang="en">RAMEN JAPAN 15min.</title></programme>
 <programme start="20260605004500 +0000" stop="20260605005400 +0000" channel="NHKWorldPremium.jp"><title lang="en">Mini Program</title></programme>
 <programme start="20260605005400 +0000" stop="20260605005500 +0000" channel="NHKWorldPremium.jp"><title lang="en">World Weather</title></programme>
-<programme start="20260605005500 +0000" stop="20260605010000 +0000" channel="NHKWorldPremium.jp"><title lang="en">Exercise for Everyone</title></programme>
-<programme start="20260605010000 +0000" stop="20260605010500 +0000" channel="NHKWorldPremium.jp"><title lang="en">News &amp; Weather</title></programme>
+<programme start="20260605005500 +0000" stop="20260605010500 +0000" channel="NHKWorldPremium.jp"><title lang="en">Exercise for Everyone</title></programme>
 <programme start="20260605010500 +0000" stop="20260605015000 +0000" channel="NHKWorldPremium.jp"><title lang="en">Saturday Drama &quot;The Three Stars of Mushoran&quot;</title><sub-title lang="en">Ep. 2</sub-title></programme>
 <programme start="20260605015000 +0000" stop="20260605015500 +0000" channel="NHKWorldPremium.jp"><title lang="en">Mini Program</title></programme>
 <programme start="20260605015500 +0000" stop="20260605024500 +0000" channel="NHKWorldPremium.jp"><title lang="en">NHK Special</title><sub-title lang="en">&quot;Brown Bears of Shiretoko: Life in a Changing Sea&quot;</sub-title></programme>
