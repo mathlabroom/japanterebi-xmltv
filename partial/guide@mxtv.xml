@@ -19,7 +19,8 @@
 <programme start="20260620033000 +0000" stop="20260620040000 +0000" channel="TokyoMX2.jp"><title lang="ja">ＭＸショッピング</title><desc lang="ja"/></programme>
 <programme start="20260620040000 +0000" stop="20260620045500 +0000" channel="TokyoMX2.jp"><title lang="ja">よしもと新喜劇</title><desc lang="ja">恋の取り立て、回収不能!?</desc></programme>
 <programme start="20260620045500 +0000" stop="20260620045900 +0000" channel="TokyoMX2.jp"><title lang="ja">ヒーリングタイム＆ヘッドラインニュース</title><desc lang="ja">東京の伝統工芸篇</desc></programme>
-<programme start="20260620045900 +0000" stop="20260620093000 +0000" channel="TokyoMX2.jp"><title lang="ja">パ・リーグ応援宣言！ホークス中継２０２６ ★日本ハム×ソフトバンク</title><desc lang="ja">「北海道日本ハムファイターズ×福岡ソフトバンクホークス」～エスコンフィールドＨＯＫＫＡＩＤＯ</desc></programme>
+<programme start="20260620045900 +0000" stop="20260620090000 +0000" channel="TokyoMX2.jp"><title lang="ja">パ・リーグ応援宣言！ホークス中継２０２６ ★日本ハム×ソフトバンク</title><desc lang="ja">「北海道日本ハムファイターズ×福岡ソフトバンクホークス」～エスコンフィールドＨＯＫＫＡＩＤＯ</desc></programme>
+<programme start="20260620090000 +0000" stop="20260620093000 +0000" channel="TokyoMX2.jp"><title lang="ja">ＭＸショッピング</title><desc lang="ja"/></programme>
 <programme start="20260620093000 +0000" stop="20260620093800 +0000" channel="TokyoMX2.jp"><title lang="ja">ヒーリングタイム＆ヘッドラインニュース</title><desc lang="ja">東京点描 谷中・根津・千駄木</desc></programme>
 <programme start="20260620093800 +0000" stop="20260620100000 +0000" channel="TokyoMX2.jp"><title lang="ja">ごりやくさん【再】【字】</title><desc lang="ja">諏訪大社</desc></programme>
 <programme start="20260620100000 +0000" stop="20260620103000 +0000" channel="TokyoMX2.jp"><title lang="ja">ＭＸショッピング</title><desc lang="ja"/></programme>
@@ -61,16 +62,16 @@
 <programme start="20260620070000 +0000" stop="20260620073000 +0000" channel="TokyoMX1.jp"><title lang="ja">吉田類の酒場放浪記</title><desc lang="ja">北越谷「のんべえ」 ／明大前「沖縄料理居酒屋 宮古」</desc></programme>
 <programme start="20260620073000 +0000" stop="20260620080000 +0000" channel="TokyoMX1.jp"><title lang="ja">ＭＸショッピング</title><desc lang="ja"/></programme>
 <programme start="20260620080000 +0000" stop="20260620085500 +0000" channel="TokyoMX1.jp"><title lang="ja">【生】田村淳のキキタイ！ ★障がい者へ合理的配慮義務化１０年▼現場で起こるハレーション</title><desc lang="ja">障がい者への合理的配慮義務化から１０年、現場で起こるハレーションどう対応？▼田村淳／中村仁美▼桜美林大学・谷内孝行／憲法学者・木村草太／登坂淳一／畠中夢叶</desc></programme>
-<programme start="20260620085500 +0000" stop="20260620090000 +0000" channel="TokyoMX1.jp"><title lang="ja">ＴＯＫＹＯ　ＭＸ　ＮＥＷＳ</title><desc lang="ja">東京の様々なニュースをお伝えします。</desc></programme>
-<programme start="20260620090000 +0000" stop="20260620093000 +0000" channel="TokyoMX1.jp"><title lang="ja">サバンナ高橋の、サウナの神さま　★ゲスト／中村獅童【後編】</title><desc lang="ja">今回“ととのう”ゲストは前回に引き続き、歌舞伎俳優の中村獅童さん。「あまりにも子供っぽい!?夫婦ゲンカの原因」から「獅童流の役者論」まで！</desc></programme>
+<programme start="20260620085500 +0000" stop="20260620090000 +0000" channel="TokyoMX1.jp"><title lang="ja">ＴＯＫＹＯ ＭＸ ＮＥＷＳ</title><desc lang="ja">東京の様々なニュースをお伝えします。</desc></programme>
+<programme start="20260620090000 +0000" stop="20260620093000 +0000" channel="TokyoMX1.jp"><title lang="ja">サバンナ高橋の、サウナの神さま ★ゲスト／中村獅童【後編】</title><desc lang="ja">今回“ととのう”ゲストは前回に引き続き、歌舞伎俳優の中村獅童さん。「あまりにも子供っぽい!?夫婦ゲンカの原因」から「獅童流の役者論」まで！</desc></programme>
 <programme start="20260620093000 +0000" stop="20260620100000 +0000" channel="TokyoMX1.jp"><title lang="ja">お買い物情報</title><desc lang="ja"/></programme>
-<programme start="20260620100000 +0000" stop="20260620103000 +0000" channel="TokyoMX1.jp"><title lang="ja">磯田丸が行く。ー経済乱世を生き抜く策は！？ー　【字】</title><desc lang="ja">Ｍ＆Ａで４４０年歴史つなぐ老舗呉服店</desc></programme>
+<programme start="20260620100000 +0000" stop="20260620103000 +0000" channel="TokyoMX1.jp"><title lang="ja">磯田丸が行く。ー経済乱世を生き抜く策は！？ー 【字】</title><desc lang="ja">Ｍ＆Ａで４４０年歴史つなぐ老舗呉服店</desc></programme>
 <programme start="20260620103000 +0000" stop="20260620110000 +0000" channel="TokyoMX1.jp"><title lang="ja">ＭＸショッピング</title><desc lang="ja"/></programme>
 <programme start="20260620110000 +0000" stop="20260620113000 +0000" channel="TokyoMX1.jp"><title lang="ja">ＭＸショッピング</title><desc lang="ja"/></programme>
 <programme start="20260620113000 +0000" stop="20260620120000 +0000" channel="TokyoMX1.jp"><title lang="ja">ＭＸショッピング</title><desc lang="ja"/></programme>
-<programme start="20260620120000 +0000" stop="20260620123000 +0000" channel="TokyoMX1.jp"><title lang="ja">真弓＆勝成のＥｘｐｅｒｔＧＯＬＦ　★吉本百花③</title><desc lang="ja">マッチプレーの鬼・高橋勝成プロと、アマチュアトップレベルの真弓明信がタッグを組んでラウンド＆レッスン。ゲストと共に視聴者の技量も向上すること必至のシリーズです！</desc></programme>
-<programme start="20260620123000 +0000" stop="20260620130000 +0000" channel="TokyoMX1.jp"><title lang="ja">音ボケＰＯＰＳ　★高嶺のなでしこより、城月菜央、日向端ひな、籾山ひめりが登場！</title><desc lang="ja">今週は、三田友梨佳、大地洋輔（ダイノジ）、橘ゆりかがゲストに旬なアーティストをお招きし、それぞれの音楽性や人間性を深掘りしていきます！</desc></programme>
-<programme start="20260620130000 +0000" stop="20260620133000 +0000" channel="TokyoMX1.jp"><title lang="ja">最強の職業は勇者でも賢者でもなく鑑定士（仮）らしいですよ？　＃１２【終】</title><desc lang="ja">＃１２「繋がりは消えていません」</desc></programme>
+<programme start="20260620120000 +0000" stop="20260620123000 +0000" channel="TokyoMX1.jp"><title lang="ja">真弓＆勝成のＥｘｐｅｒｔＧＯＬＦ ★吉本百花③</title><desc lang="ja">マッチプレーの鬼・高橋勝成プロと、アマチュアトップレベルの真弓明信がタッグを組んでラウンド＆レッスン。ゲストと共に視聴者の技量も向上すること必至のシリーズです！</desc></programme>
+<programme start="20260620123000 +0000" stop="20260620130000 +0000" channel="TokyoMX1.jp"><title lang="ja">音ボケＰＯＰＳ ★高嶺のなでしこより、城月菜央、日向端ひな、籾山ひめりが登場！</title><desc lang="ja">今週は、三田友梨佳、大地洋輔（ダイノジ）、橘ゆりかがゲストに旬なアーティストをお招きし、それぞれの音楽性や人間性を深掘りしていきます！</desc></programme>
+<programme start="20260620130000 +0000" stop="20260620133000 +0000" channel="TokyoMX1.jp"><title lang="ja">最強の職業は勇者でも賢者でもなく鑑定士（仮）らしいですよ？ ＃１２【終】</title><desc lang="ja">＃１２「繋がりは消えていません」</desc></programme>
 <programme start="20260620133000 +0000" stop="20260620140000 +0000" channel="TokyoMX1.jp"><title lang="ja">よわよわ先生　＃１１</title><desc lang="ja">よわよわで、かわいい先生との、ちょっぴり刺激的なラブコメディ！</desc></programme>
 <programme start="20260620140000 +0000" stop="20260620143000 +0000" channel="TokyoMX1.jp"><title lang="ja">２２／７計算外　ｓｅａｓｏｎ３</title><desc lang="ja">秋元康が総合プロデュースするデジタル声優アイドル、２２／７（ナナブンノニジュウニ）の冠番組！</desc></programme>
 <programme start="20260620143000 +0000" stop="20260620150000 +0000" channel="TokyoMX1.jp"><title lang="ja">黄泉のツガイ　＃１２「番小者と祈祷師」</title><desc lang="ja">謎と怪奇が交錯する新感覚ツガイバトル。息もつかせぬ幻怪ファンタジーが、今動き始める。</desc></programme>
