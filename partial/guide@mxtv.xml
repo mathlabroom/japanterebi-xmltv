@@ -10,12 +10,15 @@
 <programme start="20260625233000 +0000" stop="20260626024000 +0000" channel="TokyoMX2.jp"><title lang="ja">東京マーケットワイド 第１部【デ】</title><desc lang="ja">東証アローズから市況を完全生中継！プライム・スタンダード・グロースなど各市場の個別銘柄の値動きをリアルタイムで解説。アナリストが相場動向を分析、企業の最新情報も</desc></programme>
 <programme start="20260626024000 +0000" stop="20260626030000 +0000" channel="TokyoMX2.jp"><title lang="ja">ヒーリングタイム＆ヘッドラインニュース</title><desc lang="ja">東京の伝統工芸篇</desc></programme>
 <programme start="20260626030000 +0000" stop="20260626032900 +0000" channel="TokyoMX2.jp"><title lang="ja">どさんこクッキング</title><desc lang="ja">便利！美味！漬け込みレシピ</desc></programme>
-<programme start="20260626032900 +0000" stop="20260626065000 +0000" channel="TokyoMX2.jp"><title lang="ja">東京マーケットワイド　第２部【デ】</title><desc lang="ja">東証アローズから市況を完全生中継！プライム・スタンダード・グロースなど各市場の個別銘柄の値動きをリアルタイムで解説。アナリストが相場動向を分析、企業の最新情報も</desc></programme>
+<programme start="20260626032900 +0000" stop="20260626065000 +0000" channel="TokyoMX2.jp"><title lang="ja">東京マーケットワイド 第２部【デ】</title><desc lang="ja">東証アローズから市況を完全生中継！プライム・スタンダード・グロースなど各市場の個別銘柄の値動きをリアルタイムで解説。アナリストが相場動向を分析、企業の最新情報も</desc></programme>
 <programme start="20260626065000 +0000" stop="20260626080000 +0000" channel="TokyoMX2.jp"><title lang="ja">ヒーリングタイム＆ヘッドラインニュース</title><desc lang="ja">散歩の風景 北総／浪漫点描 散歩の風景 初夏１</desc></programme>
 <programme start="20260626080000 +0000" stop="20260626080800 +0000" channel="TokyoMX2.jp"><title lang="ja">ヒーリングタイム＆ヘッドラインニュース</title><desc lang="ja">東京点描 谷中・根津・千駄木</desc></programme>
 <programme start="20260626080800 +0000" stop="20260626083000 +0000" channel="TokyoMX2.jp"><title lang="ja">ごりやくさん【再】【字】</title><desc lang="ja">住吉大社</desc></programme>
 <programme start="20260626083000 +0000" stop="20260626085900 +0000" channel="TokyoMX2.jp"><title lang="ja">ＭＸショッピング</title><desc lang="ja"/></programme>
-<programme start="20260626085900 +0000" stop="20260626130000 +0000" channel="TokyoMX2.jp"><title lang="ja">パ・リーグ応援宣言！ホークス中継２０２６　★ロッテ×ソフトバンク</title><desc lang="ja">「千葉ロッテマリーンズ×福岡ソフトバンクホークス」～ＺＯＺＯマリンスタジアム</desc></programme>
+<programme start="20260626085900 +0000" stop="20260626100000 +0000" channel="TokyoMX2.jp"><title lang="ja">ヒーリングタイム＆ヘッドラインニュース</title><desc lang="ja">東京点描 谷中・根津・千駄木／ねこの足跡</desc></programme>
+<programme start="20260626100000 +0000" stop="20260626110000 +0000" channel="TokyoMX2.jp"><title lang="ja">ヒーリングタイム＆ヘッドラインニュース</title><desc lang="ja">水と自然と雑貨屋さん</desc></programme>
+<programme start="20260626110000 +0000" stop="20260626120000 +0000" channel="TokyoMX2.jp"><title lang="ja">ヒーリングタイム＆ヘッドラインニュース</title><desc lang="ja">散歩の風景 池上線の通る街角</desc></programme>
+<programme start="20260626120000 +0000" stop="20260626130000 +0000" channel="TokyoMX2.jp"><title lang="ja">ヒーリングタイム＆ヘッドラインニュース</title><desc lang="ja">ミュージアムクルーズ２</desc></programme>
 <programme start="20260626130000 +0000" stop="20260626140000 +0000" channel="TokyoMX2.jp"><title lang="ja">ＷＯＲＬＤ　ＭＡＲＫＥＴＺ</title><desc lang="ja">国内夜間取引・為替市場・欧州株式市場・米国株式市場の動向をＬＩＶＥで解説</desc></programme>
 <programme start="20260626140000 +0000" stop="20260626143000 +0000" channel="TokyoMX2.jp"><title lang="ja">ＭＸショッピング</title><desc lang="ja"/></programme>
 <programme start="20260626143000 +0000" stop="20260626150000 +0000" channel="TokyoMX2.jp"><title lang="ja">ヒーリングタイム＆ヘッドラインニュース</title><desc lang="ja">浪漫点描 散歩の風景 初夏２</desc></programme>
@@ -38,20 +41,20 @@
 <programme start="20260626003000 +0000" stop="20260626010000 +0000" channel="TokyoMX1.jp"><title lang="ja">洋上の楽園クルーズ</title><desc lang="ja">「グルメの楽しみも満載！自由気ままな地中海クルーズ」</desc></programme>
 <programme start="20260626010000 +0000" stop="20260626013000 +0000" channel="TokyoMX1.jp"><title lang="ja">ＭＸショッピング</title><desc lang="ja"/></programme>
 <programme start="20260626013000 +0000" stop="20260626020000 +0000" channel="TokyoMX1.jp"><title lang="ja">ＭＸショッピング</title><desc lang="ja"/></programme>
-<programme start="20260626020000 +0000" stop="20260626020400 +0000" channel="TokyoMX1.jp"><title lang="ja">ＴＯＫＹＯ　ＭＸ　ＮＥＷＳ</title><desc lang="ja">東京の様々なニュースをお伝えします。</desc></programme>
-<programme start="20260626020400 +0000" stop="20260626030000 +0000" channel="TokyoMX1.jp"><title lang="ja">中国ドラマ「後宮の涙」　★第３７話「卑劣な罠」〔字幕スーパー〕</title><desc lang="ja">その涙、誰がために流すのかーー。多くの困難を乗り越え、健気に、懸命に生きる一人の女官の物語！</desc></programme>
+<programme start="20260626020000 +0000" stop="20260626020400 +0000" channel="TokyoMX1.jp"><title lang="ja">ＴＯＫＹＯ ＭＸ ＮＥＷＳ</title><desc lang="ja">東京の様々なニュースをお伝えします。</desc></programme>
+<programme start="20260626020400 +0000" stop="20260626030000 +0000" channel="TokyoMX1.jp"><title lang="ja">中国ドラマ「後宮の涙」 ★第３７話「卑劣な罠」〔字幕スーパー〕</title><desc lang="ja">その涙、誰がために流すのかーー。多くの困難を乗り越え、健気に、懸命に生きる一人の女官の物語！</desc></programme>
 <programme start="20260626030000 +0000" stop="20260626033000 +0000" channel="TokyoMX1.jp"><title lang="ja">ＭＸショッピング</title><desc lang="ja"/></programme>
 <programme start="20260626033000 +0000" stop="20260626040000 +0000" channel="TokyoMX1.jp"><title lang="ja">ＭＸショッピング</title><desc lang="ja"/></programme>
-<programme start="20260626040000 +0000" stop="20260626040400 +0000" channel="TokyoMX1.jp"><title lang="ja">ＴＯＫＹＯ　ＭＸ　ＮＥＷＳ</title><desc lang="ja">東京の様々なニュースをお伝えします。</desc></programme>
-<programme start="20260626040400 +0000" stop="20260626045900 +0000" channel="TokyoMX1.jp"><title lang="ja">韓国ドラマ「ミセン　－未生－」　★第４話〔字幕スーパー〕</title><desc lang="ja">すべての世代の共感を呼び、社会現象を生んだ感動のヒューマンドラマ！“きっとここにあなたがいる！”</desc></programme>
+<programme start="20260626040000 +0000" stop="20260626040400 +0000" channel="TokyoMX1.jp"><title lang="ja">ＴＯＫＹＯ ＭＸ ＮＥＷＳ</title><desc lang="ja">東京の様々なニュースをお伝えします。</desc></programme>
+<programme start="20260626040400 +0000" stop="20260626045900 +0000" channel="TokyoMX1.jp"><title lang="ja">韓国ドラマ「ミセン －未生－」 ★第４話〔字幕スーパー〕</title><desc lang="ja">すべての世代の共感を呼び、社会現象を生んだ感動のヒューマンドラマ！“きっとここにあなたがいる！”</desc></programme>
 <programme start="20260626045900 +0000" stop="20260626053000 +0000" channel="TokyoMX1.jp"><title lang="ja">都知事定例会見</title><desc lang="ja"/></programme>
 <programme start="20260626053000 +0000" stop="20260626055900 +0000" channel="TokyoMX1.jp"><title lang="ja">ＭＸショッピング</title><desc lang="ja"/></programme>
 <programme start="20260626055900 +0000" stop="20260626060000 +0000" channel="TokyoMX1.jp"><title lang="ja">フラッシュ天気（初音ミク「マジカルミライ」ｖｅｒ．）</title><desc lang="ja"/></programme>
-<programme start="20260626060000 +0000" stop="20260626060400 +0000" channel="TokyoMX1.jp"><title lang="ja">ＴＯＫＹＯ　ＭＸ　ＮＥＷＳ</title><desc lang="ja">東京の様々なニュースをお伝えします。</desc></programme>
-<programme start="20260626060400 +0000" stop="20260626070000 +0000" channel="TokyoMX1.jp"><title lang="ja">大岡越前　★「長屋住いの御奉行様」</title><desc lang="ja">“大岡裁き”のことばで、名裁判官として知られている大岡越前守忠相を、八代将軍吉宗の享保の改革の一翼をにない、大江戸改革の立役者となった改革者の面から描いている。</desc></programme>
+<programme start="20260626060000 +0000" stop="20260626060400 +0000" channel="TokyoMX1.jp"><title lang="ja">ＴＯＫＹＯ ＭＸ ＮＥＷＳ</title><desc lang="ja">東京の様々なニュースをお伝えします。</desc></programme>
+<programme start="20260626060400 +0000" stop="20260626070000 +0000" channel="TokyoMX1.jp"><title lang="ja">大岡越前 ★「長屋住いの御奉行様」</title><desc lang="ja">“大岡裁き”のことばで、名裁判官として知られている大岡越前守忠相を、八代将軍吉宗の享保の改革の一翼をにない、大江戸改革の立役者となった改革者の面から描いている。</desc></programme>
 <programme start="20260626070000 +0000" stop="20260626073000 +0000" channel="TokyoMX1.jp"><title lang="ja">ＭＸショッピング</title><desc lang="ja"/></programme>
 <programme start="20260626073000 +0000" stop="20260626080000 +0000" channel="TokyoMX1.jp"><title lang="ja">ＭＸショッピング</title><desc lang="ja"/></programme>
-<programme start="20260626080000 +0000" stop="20260626085900 +0000" channel="TokyoMX1.jp"><title lang="ja">【生】５時に夢中！　★ゲストデー・森崎ウィン▼子ども黒船ケントにミュージカル指導【デ】</title><desc lang="ja">平日夕方の大人の秘密基地テレビ！▼金曜はゲストデー！森崎ウィン▼ミュージカル俳優・森崎ウィンからケントがミュージカル指導を受ける？！▼今週バズったニュースも</desc></programme>
+<programme start="20260626080000 +0000" stop="20260626085900 +0000" channel="TokyoMX1.jp"><title lang="ja">【生】５時に夢中！ ★ゲストデー・森崎ウィン▼子ども黒船ケントにミュージカル指導【デ】</title><desc lang="ja">平日夕方の大人の秘密基地テレビ！▼金曜はゲストデー！森崎ウィン▼ミュージカル俳優・森崎ウィンからケントがミュージカル指導を受ける？！▼今週バズったニュースも</desc></programme>
 <programme start="20260626085900 +0000" stop="20260626093000 +0000" channel="TokyoMX1.jp"><title lang="ja">湯ったり温泉バラエティ　原田龍二の日本全国！湯一無二　★奥行３０ｍの洞窟風呂</title><desc lang="ja">原田龍二が個性豊かなスタッフたちと日本全国の絶景秘湯を目指す冒険バラエティ！誰も知らない、湯一無二の温泉をお届けします。</desc></programme>
 <programme start="20260626093000 +0000" stop="20260626100000 +0000" channel="TokyoMX1.jp"><title lang="ja">【秘密戦隊ゴレンジャー５０周年記念】秘密戦隊ゴレンジャー　＃５３</title><desc lang="ja">＃５３「赤いホームラン王！必殺の背番号１」</desc></programme>
 <programme start="20260626100000 +0000" stop="20260626103000 +0000" channel="TokyoMX1.jp"><title lang="ja">仮面ライダースーパー１【ＨＤ】　＃２３「不死身の帝王テラーマクロの正体は？」</title><desc lang="ja">ファイブハンドを操るコードネーム“スーパー１”闇の王国・ドグマを倒せ！</desc></programme>
