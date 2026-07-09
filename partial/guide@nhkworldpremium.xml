@@ -469,7 +469,7 @@
 <programme start="20260712105800 +0000" stop="20260712110000 +0000" channel="NHKWorldPremium.jp"><title lang="ja">ミニ番組</title></programme>
 <programme start="20260712110000 +0000" stop="20260712114500 +0000" channel="NHKWorldPremium.jp"><title lang="ja">大河ドラマ「豊臣兄弟！」</title><sub-title lang="ja">（27）本能寺の変</sub-title></programme>
 <programme start="20260712114500 +0000" stop="20260712120000 +0000" channel="NHKWorldPremium.jp"><title lang="ja">ニュース・気象情報</title></programme>
-<programme start="20260712120000 +0000" stop="20260712124900 +0000" channel="NHKWorldPremium.jp"><title lang="ja">NHKスペシャル</title></programme>
+<programme start="20260712120000 +0000" stop="20260712124900 +0000" channel="NHKWorldPremium.jp"><title lang="ja">NHKスペシャル</title><sub-title lang="ja">スパイ　機密と監視の境界で</sub-title></programme>
 <programme start="20260712124900 +0000" stop="20260712125000 +0000" channel="NHKWorldPremium.jp"><title lang="ja">ワールドウェザー</title></programme>
 <programme start="20260712125000 +0000" stop="20260712133500 +0000" channel="NHKWorldPremium.jp"><title lang="ja">【プレミアムドラマ】勿忘草の咲く町で ～安曇野診療記～</title><sub-title lang="ja">（2）</sub-title></programme>
 <programme start="20260712133500 +0000" stop="20260712134000 +0000" channel="NHKWorldPremium.jp"><title lang="ja">ミニ番組</title></programme>
@@ -532,7 +532,7 @@
 <programme start="20260712105800 +0000" stop="20260712110000 +0000" channel="NHKWorldPremium.jp"><title lang="en">Mini Program</title></programme>
 <programme start="20260712110000 +0000" stop="20260712114500 +0000" channel="NHKWorldPremium.jp"><title lang="en">Historical Drama &quot;BROTHERS IN ARMS&quot;</title><sub-title lang="en">Ep. 27</sub-title></programme>
 <programme start="20260712114500 +0000" stop="20260712120000 +0000" channel="NHKWorldPremium.jp"><title lang="en">News &amp; Weather</title></programme>
-<programme start="20260712120000 +0000" stop="20260712124900 +0000" channel="NHKWorldPremium.jp"><title lang="en">NHK Special</title></programme>
+<programme start="20260712120000 +0000" stop="20260712124900 +0000" channel="NHKWorldPremium.jp"><title lang="en">NHK Special</title><sub-title lang="en">&quot;The Spy Is Out There: Between Secrets and Surveillance&quot;</sub-title></programme>
 <programme start="20260712124900 +0000" stop="20260712125000 +0000" channel="NHKWorldPremium.jp"><title lang="en">World Weather</title></programme>
 <programme start="20260712125000 +0000" stop="20260712133500 +0000" channel="NHKWorldPremium.jp"><title lang="en">Premium Drama &quot;A Town of Blooming Forget-Me-Not&quot;</title><sub-title lang="en">Ep. 2</sub-title></programme>
 <programme start="20260712133500 +0000" stop="20260712134000 +0000" channel="NHKWorldPremium.jp"><title lang="en">Mini Program</title></programme>
@@ -547,7 +547,7 @@
 <programme start="20260712162000 +0000" stop="20260712162500 +0000" channel="NHKWorldPremium.jp"><title lang="ja">ワールドウェザー</title></programme>
 <programme start="20260712162500 +0000" stop="20260712163000 +0000" channel="NHKWorldPremium.jp"><title lang="ja">みんなのうた</title></programme>
 <programme start="20260712163000 +0000" stop="20260712173000 +0000" channel="NHKWorldPremium.jp"><title lang="ja">戦国マネー戦記</title></programme>
-<programme start="20260712173000 +0000" stop="20260712180000 +0000" channel="NHKWorldPremium.jp"><title lang="ja">ピタゴラ装置　大解説スペシャル</title><sub-title lang="ja">（アンコール）「前半戦」</sub-title></programme>
+<programme start="20260712173000 +0000" stop="20260712180000 +0000" channel="NHKWorldPremium.jp"><title lang="ja">ピタゴラスイッチ　ピタゴラ装置　大解説スペシャル</title><sub-title lang="ja">（アンコール）「前半戦」</sub-title></programme>
 <programme start="20260712180000 +0000" stop="20260712183000 +0000" channel="NHKWorldPremium.jp"><title lang="ja">ヴィランの言い分</title><sub-title lang="ja">カタツムリ</sub-title></programme>
 <programme start="20260712183000 +0000" stop="20260712190000 +0000" channel="NHKWorldPremium.jp"><title lang="ja">サイエンスZERO</title><sub-title lang="ja">“超深海” 未知の宝の地図を描け！「うらしま8000」</sub-title></programme>
 <programme start="20260712190000 +0000" stop="20260712193000 +0000" channel="NHKWorldPremium.jp"><title lang="ja">ギョギョッとサカナ★スター</title><sub-title lang="ja">イスズミ</sub-title></programme>
