@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20260730">
 <channel id="NHKWorldPremium.jp"><display-name>NHK World Premium</display-name><icon src="https://i.imgur.com/4ESi2La.png"/><url>https://nhkworldpremium.com</url></channel>
 <channel id="NHKWorldPremium.jp"><display-name>NHK World Premium</display-name><icon src="https://i.imgur.com/4ESi2La.png"/><url>https://nhkworldpremium.com</url></channel>
+<programme start="20260729150000 +0000" stop="20260729152400 +0000" channel="NHKWorldPremium.jp"><title lang="en">TBA</title></programme>
 <programme start="20260729152400 +0000" stop="20260729152900 +0000" channel="NHKWorldPremium.jp"><title lang="en">Cruising from the Sky Mini</title></programme>
 <programme start="20260729152900 +0000" stop="20260729153000 +0000" channel="NHKWorldPremium.jp"><title lang="en">World Weather</title></programme>
 <programme start="20260729153000 +0000" stop="20260729161500 +0000" channel="NHKWorldPremium.jp"><title lang="en">We Hope Our Healthy Lives That Do Not Lead to Disease</title></programme>
@@ -70,6 +71,7 @@
 <programme start="20260730143000 +0000" stop="20260730144000 +0000" channel="NHKWorldPremium.jp"><title lang="en">News Commentary</title></programme>
 <programme start="20260730144000 +0000" stop="20260730144500 +0000" channel="NHKWorldPremium.jp"><title lang="en">News &amp; Weather</title></programme>
 <programme start="20260730144500 +0000" stop="20260730152900 +0000" channel="NHKWorldPremium.jp"><title lang="en">International News Report 2026</title></programme>
+<programme start="20260729150000 +0000" stop="20260729152400 +0000" channel="NHKWorldPremium.jp"><title lang="ja">未定</title></programme>
 <programme start="20260729152400 +0000" stop="20260729152900 +0000" channel="NHKWorldPremium.jp"><title lang="ja">空からクルージングmini・5分版</title></programme>
 <programme start="20260729152900 +0000" stop="20260729153000 +0000" channel="NHKWorldPremium.jp"><title lang="ja">ワールドウェザー</title></programme>
 <programme start="20260729153000 +0000" stop="20260729161500 +0000" channel="NHKWorldPremium.jp"><title lang="ja">未病息災を願います</title><sub-title lang="ja">選「骨密度」が気になったら</sub-title></programme>
