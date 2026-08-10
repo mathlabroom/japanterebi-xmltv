@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20260810">
 <channel id="NHKWorldPremium.jp"><display-name>NHK World Premium</display-name><icon src="https://i.imgur.com/4ESi2La.png"/><url>https://nhkworldpremium.com</url></channel>
 <channel id="NHKWorldPremium.jp"><display-name>NHK World Premium</display-name><icon src="https://i.imgur.com/4ESi2La.png"/><url>https://nhkworldpremium.com</url></channel>
+<programme start="20260809150000 +0000" stop="20260809152900 +0000" channel="NHKWorldPremium.jp"><title lang="en">TBA</title></programme>
 <programme start="20260809152900 +0000" stop="20260809153500 +0000" channel="NHKWorldPremium.jp"><title lang="en">Cruising from the Sky Mini</title></programme>
 <programme start="20260809153500 +0000" stop="20260809162000 +0000" channel="NHKWorldPremium.jp"><title lang="en">NHK Amateur Singing Contest</title><sub-title lang="en">&quot;Obu City, Aichi Prefecture&quot;</sub-title></programme>
 <programme start="20260809162000 +0000" stop="20260809162500 +0000" channel="NHKWorldPremium.jp"><title lang="en">World Weather</title></programme>
@@ -61,6 +62,7 @@
 <programme start="20260810143000 +0000" stop="20260810144000 +0000" channel="NHKWorldPremium.jp"><title lang="en">News Commentary</title></programme>
 <programme start="20260810144000 +0000" stop="20260810144500 +0000" channel="NHKWorldPremium.jp"><title lang="en">News &amp; Weather</title></programme>
 <programme start="20260810144500 +0000" stop="20260810152900 +0000" channel="NHKWorldPremium.jp"><title lang="en">Nakai Seiya&apos;s Railway Journey</title></programme>
+<programme start="20260809150000 +0000" stop="20260809152900 +0000" channel="NHKWorldPremium.jp"><title lang="ja">未定</title></programme>
 <programme start="20260809152900 +0000" stop="20260809153500 +0000" channel="NHKWorldPremium.jp"><title lang="ja">空からクルージングmini・5分版</title></programme>
 <programme start="20260809153500 +0000" stop="20260809162000 +0000" channel="NHKWorldPremium.jp"><title lang="ja">NHKのど自慢</title><sub-title lang="ja">愛知から生放送！▽香西かおり・三山ひろし～愛三文化会館から中継～</sub-title></programme>
 <programme start="20260809162000 +0000" stop="20260809162500 +0000" channel="NHKWorldPremium.jp"><title lang="ja">ワールドウェザー</title></programme>
