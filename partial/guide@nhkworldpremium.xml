@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20260811">
 <channel id="NHKWorldPremium.jp"><display-name>NHK World Premium</display-name><icon src="https://i.imgur.com/4ESi2La.png"/><url>https://nhkworldpremium.com</url></channel>
 <channel id="NHKWorldPremium.jp"><display-name>NHK World Premium</display-name><icon src="https://i.imgur.com/4ESi2La.png"/><url>https://nhkworldpremium.com</url></channel>
+<programme start="20260810150000 +0000" stop="20260810152900 +0000" channel="NHKWorldPremium.jp"><title lang="en">TBA</title></programme>
 <programme start="20260810152900 +0000" stop="20260810153000 +0000" channel="NHKWorldPremium.jp"><title lang="en">World Weather</title></programme>
 <programme start="20260810153000 +0000" stop="20260810153500 +0000" channel="NHKWorldPremium.jp"><title lang="en">Cooking for Beginners</title></programme>
 <programme start="20260810153500 +0000" stop="20260810154000 +0000" channel="NHKWorldPremium.jp"><title lang="en">Cooking for Beginners</title></programme>
@@ -82,6 +83,7 @@
 <programme start="20260811131500 +0000" stop="20260811141500 +0000" channel="NHKWorldPremium.jp"><title lang="en">The Comedy of LIFE</title><sub-title lang="en">&quot;Summer&quot;</sub-title></programme>
 <programme start="20260811141500 +0000" stop="20260811142000 +0000" channel="NHKWorldPremium.jp"><title lang="en">News &amp; Weather</title></programme>
 <programme start="20260811142000 +0000" stop="20260811151900 +0000" channel="NHKWorldPremium.jp"><title lang="en">Fish Masters Special</title><sub-title lang="en">&quot;Heightened Senses&quot;</sub-title></programme>
+<programme start="20260810150000 +0000" stop="20260810152900 +0000" channel="NHKWorldPremium.jp"><title lang="ja">未定</title></programme>
 <programme start="20260810152900 +0000" stop="20260810153000 +0000" channel="NHKWorldPremium.jp"><title lang="ja">ワールドウェザー</title></programme>
 <programme start="20260810153000 +0000" stop="20260810153500 +0000" channel="NHKWorldPremium.jp"><title lang="ja">きょうの料理ビギナーズ</title></programme>
 <programme start="20260810153500 +0000" stop="20260810154000 +0000" channel="NHKWorldPremium.jp"><title lang="ja">きょうの料理ビギナーズ</title></programme>
