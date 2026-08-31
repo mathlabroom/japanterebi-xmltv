@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20260831">
 <channel id="NHKWorldPremium.jp"><display-name>NHK World Premium</display-name><icon src="https://i.imgur.com/4ESi2La.png"/><url>https://nhkworldpremium.com</url></channel>
 <channel id="NHKWorldPremium.jp"><display-name>NHK World Premium</display-name><icon src="https://i.imgur.com/4ESi2La.png"/><url>https://nhkworldpremium.com</url></channel>
+<programme start="20260830150000 +0000" stop="20260830153100 +0000" channel="NHKWorldPremium.jp"><title lang="en">TBA</title></programme>
 <programme start="20260830153100 +0000" stop="20260830153500 +0000" channel="NHKWorldPremium.jp"><title lang="en">Mini Program</title></programme>
 <programme start="20260830153500 +0000" stop="20260830163500 +0000" channel="NHKWorldPremium.jp"><title lang="en">Sunday Debate</title></programme>
 <programme start="20260830163500 +0000" stop="20260830173500 +0000" channel="NHKWorldPremium.jp"><title lang="en">Train Geek Championship: Nagano Electric Railway &amp; Shinano Railway</title></programme>
@@ -62,6 +63,7 @@
 <programme start="20260831143000 +0000" stop="20260831144000 +0000" channel="NHKWorldPremium.jp"><title lang="en">News Commentary</title></programme>
 <programme start="20260831144000 +0000" stop="20260831144500 +0000" channel="NHKWorldPremium.jp"><title lang="en">News &amp; Weather</title></programme>
 <programme start="20260831144500 +0000" stop="20260831152900 +0000" channel="NHKWorldPremium.jp"><title lang="en">International News Report 2026</title></programme>
+<programme start="20260830150000 +0000" stop="20260830153100 +0000" channel="NHKWorldPremium.jp"><title lang="ja">未定</title></programme>
 <programme start="20260830153100 +0000" stop="20260830153500 +0000" channel="NHKWorldPremium.jp"><title lang="ja">ミニ番組</title></programme>
 <programme start="20260830153500 +0000" stop="20260830163500 +0000" channel="NHKWorldPremium.jp"><title lang="ja">日曜討論</title><sub-title lang="ja">アメリカ“経済制裁”どうなるイラン情勢</sub-title></programme>
 <programme start="20260830163500 +0000" stop="20260830173500 +0000" channel="NHKWorldPremium.jp"><title lang="ja">鉄オタ選手権</title><sub-title lang="ja">長野電鉄＆しなの鉄道の陣　名車続々登場！乗り鉄クイズ旅</sub-title></programme>
