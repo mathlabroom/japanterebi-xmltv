@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20260921">
 <channel id="NHKWorldPremium.jp"><display-name>NHK World Premium</display-name><icon src="https://i.imgur.com/4ESi2La.png"/><url>https://nhkworldpremium.com</url></channel>
 <channel id="NHKWorldPremium.jp"><display-name>NHK World Premium</display-name><icon src="https://i.imgur.com/4ESi2La.png"/><url>https://nhkworldpremium.com</url></channel>
+<programme start="20260920150000 +0000" stop="20260920153500 +0000" channel="NHKWorldPremium.jp"><title lang="en">TBA</title></programme>
 <programme start="20260920153500 +0000" stop="20260920162000 +0000" channel="NHKWorldPremium.jp"><title lang="en">NHK Amateur Singing Contest</title><sub-title lang="en">&quot;Toda City, Saitama Prefecture&quot;</sub-title></programme>
 <programme start="20260920162000 +0000" stop="20260920162500 +0000" channel="NHKWorldPremium.jp"><title lang="en">World Weather</title></programme>
 <programme start="20260920162500 +0000" stop="20260920163000 +0000" channel="NHKWorldPremium.jp"><title lang="en">Songs for Everyone</title></programme>
@@ -74,6 +75,7 @@
 <programme start="20260921143000 +0000" stop="20260921143500 +0000" channel="NHKWorldPremium.jp"><title lang="en">News &amp; Weather</title></programme>
 <programme start="20260921143500 +0000" stop="20260921144500 +0000" channel="NHKWorldPremium.jp"><title lang="en">Darwin&apos;s Amazing Animals 10min.</title></programme>
 <programme start="20260921144500 +0000" stop="20260921152900 +0000" channel="NHKWorldPremium.jp"><title lang="en">The Fountain of Ancient Wisdom</title><sub-title lang="en">&quot;Iwakura Tomomi&quot;</sub-title></programme>
+<programme start="20260920150000 +0000" stop="20260920153500 +0000" channel="NHKWorldPremium.jp"><title lang="ja">未定</title></programme>
 <programme start="20260920153500 +0000" stop="20260920162000 +0000" channel="NHKWorldPremium.jp"><title lang="ja">NHKのど自慢</title><sub-title lang="ja">埼玉から生放送！▽野口五郎・MAX～戸田市文化会館から中継～</sub-title></programme>
 <programme start="20260920162000 +0000" stop="20260920162500 +0000" channel="NHKWorldPremium.jp"><title lang="ja">ワールドウェザー</title></programme>
 <programme start="20260920162500 +0000" stop="20260920163000 +0000" channel="NHKWorldPremium.jp"><title lang="ja">みんなのうた</title></programme>
