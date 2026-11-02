@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20261102">
 <channel id="NHKWorldPremium.jp"><display-name>NHK World Premium</display-name><icon src="https://i.imgur.com/4ESi2La.png"/><url>https://nhkworldpremium.com</url></channel>
 <channel id="NHKWorldPremium.jp"><display-name>NHK World Premium</display-name><icon src="https://i.imgur.com/4ESi2La.png"/><url>https://nhkworldpremium.com</url></channel>
+<programme start="20261101151700 +0000" stop="20261101151900 +0000" channel="NHKWorldPremium.jp"><title lang="en">Mini Program</title></programme>
+<programme start="20261101151900 +0000" stop="20261101153500 +0000" channel="NHKWorldPremium.jp"><title lang="en">Magnificent Sight!--Mountain Lodges in Europe</title></programme>
 <programme start="20261101153500 +0000" stop="20261101162000 +0000" channel="NHKWorldPremium.jp"><title lang="en">NHK Amateur Singing Contest</title><sub-title lang="en">&quot;Yuzawa City, Akita Prefecture&quot;</sub-title></programme>
 <programme start="20261101162000 +0000" stop="20261101162500 +0000" channel="NHKWorldPremium.jp"><title lang="en">World Weather</title></programme>
 <programme start="20261101162500 +0000" stop="20261101163000 +0000" channel="NHKWorldPremium.jp"><title lang="en">Songs for Everyone</title></programme>
@@ -49,7 +51,7 @@
 <programme start="20261102095500 +0000" stop="20261102100000 +0000" channel="NHKWorldPremium.jp"><title lang="en">World Weather</title></programme>
 <programme start="20261102100000 +0000" stop="20261102103000 +0000" channel="NHKWorldPremium.jp"><title lang="en">NHK News 7</title></programme>
 <programme start="20261102103000 +0000" stop="20261102105700 +0000" channel="NHKWorldPremium.jp"><title lang="en">Today&apos;s Close-up</title></programme>
-<programme start="20261102105700 +0000" stop="20261102114300 +0000" channel="NHKWorldPremium.jp"><title lang="en">Tsurube&apos;s Salute to Families</title><sub-title lang="en">&quot;Nonomura Yukiko in Yonezawa City, Yamagata Prefecture&quot;</sub-title></programme>
+<programme start="20261102105700 +0000" stop="20261102114300 +0000" channel="NHKWorldPremium.jp"><title lang="en">Tsurube&apos;s Salute to Families</title><sub-title lang="en">&quot;Nonomura Yukiko in Yonezawa City, Yamagata Prefecture&quot; Part 1</sub-title></programme>
 <programme start="20261102114300 +0000" stop="20261102114500 +0000" channel="NHKWorldPremium.jp"><title lang="en">World Weather</title></programme>
 <programme start="20261102114500 +0000" stop="20261102120000 +0000" channel="NHKWorldPremium.jp"><title lang="en">NHK News 845</title></programme>
 <programme start="20261102120000 +0000" stop="20261102130000 +0000" channel="NHKWorldPremium.jp"><title lang="en">News Watch 9</title></programme>
@@ -59,6 +61,8 @@
 <programme start="20261102143000 +0000" stop="20261102144000 +0000" channel="NHKWorldPremium.jp"><title lang="en">News Commentary</title></programme>
 <programme start="20261102144000 +0000" stop="20261102144500 +0000" channel="NHKWorldPremium.jp"><title lang="en">News &amp; Weather</title></programme>
 <programme start="20261102144500 +0000" stop="20261102152900 +0000" channel="NHKWorldPremium.jp"><title lang="en">International News Report 2026</title></programme>
+<programme start="20261101151700 +0000" stop="20261101151900 +0000" channel="NHKWorldPremium.jp"><title lang="ja">ミニ番組</title></programme>
+<programme start="20261101151900 +0000" stop="20261101153500 +0000" channel="NHKWorldPremium.jp"><title lang="ja">絶景！ヨーロッパの山小屋めぐり</title></programme>
 <programme start="20261101153500 +0000" stop="20261101162000 +0000" channel="NHKWorldPremium.jp"><title lang="ja">NHKのど自慢</title><sub-title lang="ja">秋田から生放送▽長山洋子・大江裕～湯沢市湯沢文化会館から中継～</sub-title></programme>
 <programme start="20261101162000 +0000" stop="20261101162500 +0000" channel="NHKWorldPremium.jp"><title lang="ja">ワールドウェザー</title></programme>
 <programme start="20261101162500 +0000" stop="20261101163000 +0000" channel="NHKWorldPremium.jp"><title lang="ja">みんなのうた</title></programme>
@@ -133,7 +137,7 @@
 <programme start="20261102183000 +0000" stop="20261102184500 +0000" channel="NHKWorldPremium.jp"><title lang="en">Drama Serial &quot;Blossom&quot;</title><sub-title lang="en">Ep. 26</sub-title></programme>
 <programme start="20261102184500 +0000" stop="20261102191200 +0000" channel="NHKWorldPremium.jp"><title lang="en">Today&apos;s Close-up</title></programme>
 <programme start="20261102191200 +0000" stop="20261102191500 +0000" channel="NHKWorldPremium.jp"><title lang="en">World Weather</title></programme>
-<programme start="20261102191500 +0000" stop="20261102200000 +0000" channel="NHKWorldPremium.jp"><title lang="en">Tsurube&apos;s Salute to Families</title><sub-title lang="en">&quot;Nonomura Yukiko in Yonezawa City, Yamagata Prefecture&quot;</sub-title></programme>
+<programme start="20261102191500 +0000" stop="20261102200000 +0000" channel="NHKWorldPremium.jp"><title lang="en">Tsurube&apos;s Salute to Families</title><sub-title lang="en">&quot;Nonomura Yukiko in Yonezawa City, Yamagata Prefecture&quot; Part 1</sub-title></programme>
 <programme start="20261102200000 +0000" stop="20261102201000 +0000" channel="NHKWorldPremium.jp"><title lang="en">TV Exercise</title></programme>
 <programme start="20261102201000 +0000" stop="20261102202500 +0000" channel="NHKWorldPremium.jp"><title lang="en">Health for Today</title></programme>
 <programme start="20261102202500 +0000" stop="20261102205000 +0000" channel="NHKWorldPremium.jp"><title lang="en">My Gardening</title></programme>
@@ -155,7 +159,7 @@
 <programme start="20261103005400 +0000" stop="20261103005500 +0000" channel="NHKWorldPremium.jp"><title lang="en">World Weather</title></programme>
 <programme start="20261103005500 +0000" stop="20261103010000 +0000" channel="NHKWorldPremium.jp"><title lang="en">Mini Program</title></programme>
 <programme start="20261103010000 +0000" stop="20261103010500 +0000" channel="NHKWorldPremium.jp"><title lang="en">News &amp; Weather</title></programme>
-<programme start="20261103010500 +0000" stop="20261103015000 +0000" channel="NHKWorldPremium.jp"><title lang="en">Tsurube&apos;s Salute to Families</title><sub-title lang="en">&quot;Nonomura Yukiko in Yonezawa City, Yamagata Prefecture&quot;</sub-title></programme>
+<programme start="20261103010500 +0000" stop="20261103015000 +0000" channel="NHKWorldPremium.jp"><title lang="en">Tsurube&apos;s Salute to Families</title><sub-title lang="en">&quot;Nonomura Yukiko in Yonezawa City, Yamagata Prefecture&quot; Part 1</sub-title></programme>
 <programme start="20261103015000 +0000" stop="20261103021700 +0000" channel="NHKWorldPremium.jp"><title lang="en">Today&apos;s Close-up</title></programme>
 <programme start="20261103021700 +0000" stop="20261103022000 +0000" channel="NHKWorldPremium.jp"><title lang="en">Mini Program</title></programme>
 <programme start="20261103022000 +0000" stop="20261103025000 +0000" channel="NHKWorldPremium.jp"><title lang="en">Late Night Show with Nitty and Gritty</title></programme>
@@ -772,7 +776,7 @@
 <programme start="20261107025000 +0000" stop="20261107025600 +0000" channel="NHKWorldPremium.jp"><title lang="ja">みんなのうた</title></programme>
 <programme start="20261107025600 +0000" stop="20261107030000 +0000" channel="NHKWorldPremium.jp"><title lang="ja">ワールドウェザー</title></programme>
 <programme start="20261107030000 +0000" stop="20261107031500 +0000" channel="NHKWorldPremium.jp"><title lang="ja">ニュース</title></programme>
-<programme start="20261107031500 +0000" stop="20261107034000 +0000" channel="NHKWorldPremium.jp"><title lang="ja">探検ファクトリー</title></programme>
+<programme start="20261107031500 +0000" stop="20261107034000 +0000" channel="NHKWorldPremium.jp"><title lang="ja">探検ファクトリー</title><sub-title lang="ja">快適な乗り心地を支える機密な技　自動車のシートカバー工場</sub-title></programme>
 <programme start="20261107034000 +0000" stop="20261107034500 +0000" channel="NHKWorldPremium.jp"><title lang="ja">ニッポン創世　神々の道をたどる　5min.</title></programme>
 <programme start="20261107034500 +0000" stop="20261107040000 +0000" channel="NHKWorldPremium.jp"><title lang="ja">連続テレビ小説「ブラッサム」</title><sub-title lang="ja">第6週</sub-title></programme>
 <programme start="20261107040000 +0000" stop="20261107040500 +0000" channel="NHKWorldPremium.jp"><title lang="ja">ニュース・気象情報</title></programme>
@@ -898,7 +902,7 @@
 <programme start="20261107235000 +0000" stop="20261108000000 +0000" channel="NHKWorldPremium.jp"><title lang="ja">デザイン あ neo</title></programme>
 <programme start="20261108000000 +0000" stop="20261108010000 +0000" channel="NHKWorldPremium.jp"><title lang="ja">日曜討論</title></programme>
 <programme start="20261108010000 +0000" stop="20261108010500 +0000" channel="NHKWorldPremium.jp"><title lang="ja">ニュース・気象情報</title></programme>
-<programme start="20261108010500 +0000" stop="20261108012800 +0000" channel="NHKWorldPremium.jp"><title lang="ja">明日をまもるナビ</title></programme>
+<programme start="20261108010500 +0000" stop="20261108012800 +0000" channel="NHKWorldPremium.jp"><title lang="ja">明日をまもるナビ</title><sub-title lang="ja">（207）会社だからできる災害支援</sub-title></programme>
 <programme start="20261108012800 +0000" stop="20261108013000 +0000" channel="NHKWorldPremium.jp"><title lang="ja">ミニ番組</title></programme>
 <programme start="20261108013000 +0000" stop="20261108020000 +0000" channel="NHKWorldPremium.jp"><title lang="ja">サイエンスZERO</title><sub-title lang="ja">選　“深海生物”ミステリー！未知の生態系に迫る</sub-title></programme>
 <programme start="20261108020000 +0000" stop="20261108025000 +0000" channel="NHKWorldPremium.jp"><title lang="ja">【プレミアムドラマ・選】カンパニー～逆転のスワン～</title><sub-title lang="ja">（アンコ－ル）（6）</sub-title></programme>
