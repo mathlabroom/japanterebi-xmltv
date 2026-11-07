@@ -39,13 +39,13 @@
 <programme start="20261107120000 +0000" stop="20261107123000 +0000" channel="TokyoMX2.jp"><title lang="ja">ＭＸショッピング</title><desc lang="ja"/></programme>
 <programme start="20261107123000 +0000" stop="20261107130000 +0000" channel="TokyoMX2.jp"><title lang="ja">ＭＸショッピング</title><desc lang="ja"/></programme>
 <programme start="20261107130000 +0000" stop="20261107140000 +0000" channel="TokyoMX2.jp"><title lang="ja">ヒーリングタイム＆ヘッドラインニュース</title><desc lang="ja">散歩の風景 横浜・湘南・箱根</desc></programme>
-<programme start="20261107140000 +0000" stop="20261107141000 +0000" channel="TokyoMX2.jp"><title lang="ja">笑ゥせぇるすまん　＃５９「極楽風呂」</title><desc lang="ja"/></programme>
+<programme start="20261107140000 +0000" stop="20261107141000 +0000" channel="TokyoMX2.jp"><title lang="ja">笑ゥせぇるすまん ＃５９「極楽風呂」</title><desc lang="ja"/></programme>
 <programme start="20261107141000 +0000" stop="20261107143000 +0000" channel="TokyoMX2.jp"><title lang="ja">ヒーリングタイム＆ヘッドラインニュース</title><desc lang="ja">東京ＢＡＹクルーズ</desc></programme>
-<programme start="20261107143000 +0000" stop="20261107150000 +0000" channel="TokyoMX2.jp"><title lang="ja">Ｔｏｋｙｏ　Ｐｈｏｔｏ　Ｌｉｂｒａｒｙ</title><desc lang="ja">緑と影のコントラスト、武蔵境</desc></programme>
-<programme start="20261107150000 +0000" stop="20261107153000 +0000" channel="TokyoMX2.jp"><title lang="ja">Ｔｏｋｙｏ　Ｐｈｏｔｏ　Ｌｉｂｒａｒｙ</title><desc lang="ja">２両の電車が行く西新井大師</desc></programme>
-<programme start="20261107153000 +0000" stop="20261107160000 +0000" channel="TokyoMX2.jp"><title lang="ja">Ｔｏｋｙｏ　Ｐｈｏｔｏ　Ｌｉｂｒａｒｙ</title><desc lang="ja">有楽町と神田、明治のレンガとガード下</desc></programme>
+<programme start="20261107143000 +0000" stop="20261107150000 +0000" channel="TokyoMX2.jp"><title lang="ja">Ｔｏｋｙｏ Ｐｈｏｔｏ Ｌｉｂｒａｒｙ</title><desc lang="ja">緑と影のコントラスト、武蔵境</desc></programme>
+<programme start="20261107150000 +0000" stop="20261107153000 +0000" channel="TokyoMX2.jp"><title lang="ja">Ｔｏｋｙｏ Ｐｈｏｔｏ Ｌｉｂｒａｒｙ</title><desc lang="ja">２両の電車が行く西新井大師</desc></programme>
+<programme start="20261107153000 +0000" stop="20261107160000 +0000" channel="TokyoMX2.jp"><title lang="ja">Ｔｏｋｙｏ Ｐｈｏｔｏ Ｌｉｂｒａｒｙ</title><desc lang="ja">有楽町と神田、明治のレンガとガード下</desc></programme>
 <programme start="20261107160000 +0000" stop="20261107170000 +0000" channel="TokyoMX2.jp"><title lang="ja">ヒーリングタイム＆ヘッドラインニュース</title><desc lang="ja">散歩の風景 墨田・台東・日本橋・東京ＢＡＹ</desc></programme>
-<programme start="20261107170000 +0000" stop="20261107173000 +0000" channel="TokyoMX2.jp"><title lang="ja">ＣＭ　ＩＮＤＥＸ</title><desc lang="ja">ヒットＣＭ情報３０分！「月例ＣＭ好感度調査」をもとに、最新のヒットＣＭや話題のＣＭを紹介。</desc></programme>
+<programme start="20261107170000 +0000" stop="20261107173000 +0000" channel="TokyoMX2.jp"><title lang="ja">ＣＭ ＩＮＤＥＸ</title><desc lang="ja">ヒットＣＭ情報３０分！「月例ＣＭ好感度調査」をもとに、最新のヒットＣＭや話題のＣＭを紹介。</desc></programme>
 <programme start="20261107173000 +0000" stop="20261107180000 +0000" channel="TokyoMX2.jp"><title lang="ja">ヒーリングタイム＆ヘッドラインニュース</title><desc lang="ja">玉川上水編</desc></programme>
 <programme start="20261107180000 +0000" stop="20261107190000 +0000" channel="TokyoMX2.jp"><title lang="ja">ヒーリングタイム＆ヘッドラインニュース</title><desc lang="ja">工場夜景クルーズ</desc></programme>
 <programme start="20261107190000 +0000" stop="20261107200000 +0000" channel="TokyoMX2.jp"><title lang="ja">ヒーリングタイム＆ヘッドラインニュース</title><desc lang="ja">にゃんタレＭｏｖｉｅ</desc></programme>
@@ -81,15 +81,15 @@
 <programme start="20261107100000 +0000" stop="20261107110000 +0000" channel="TokyoMX1.jp"><title lang="ja">トウキョウもっともっと！元気計画研究所 ★もっと江戸・東京の魅力を知ってもらう！</title><desc lang="ja">東所長率いる「トウキョウもっともっと！元気計画研究所」。今回のテーマは「もっと江戸・東京の魅力を知ってもらうために！」。そのための方法を提案します！</desc></programme>
 <programme start="20261107110000 +0000" stop="20261107113000 +0000" channel="TokyoMX1.jp"><title lang="ja">ＭＸショッピング</title><desc lang="ja"/></programme>
 <programme start="20261107113000 +0000" stop="20261107120000 +0000" channel="TokyoMX1.jp"><title lang="ja">ＭＸショッピング</title><desc lang="ja"/></programme>
-<programme start="20261107120000 +0000" stop="20261107123000 +0000" channel="TokyoMX1.jp"><title lang="ja">ドラマ「おいしい給食　ｓｅａｓｏｎ４」　★第３話「南海の青軍曹　グルクン」【再】【字】</title><desc lang="ja">９０年代。給食マニアの教師と生徒による、どちらが給食を「おいしく食べるか」という闘いを描いた究極の「食ドラ」。沖縄を舞台に、さらにスケールアップした物語が開幕！</desc></programme>
-<programme start="20261107123000 +0000" stop="20261107130000 +0000" channel="TokyoMX1.jp"><title lang="ja">音ボケＰＯＰＳ　★ゲストには、ＢＥＮＩが登場！突撃コーナーには原田知世が登場！</title><desc lang="ja">今週は、ＩＭＡＬＵ、大地洋輔（ダイノジ）、相楽伊織、宇井優良梨（ＧＥＮＩＣ）がゲストに旬なアーティストをお招きし、それぞれの音楽性や人間性を深掘りしていきます！</desc></programme>
-<programme start="20261107130000 +0000" stop="20261107133000 +0000" channel="TokyoMX1.jp"><title lang="ja">転生した大聖女は、聖女であることをひた隠す　＃６「黒き王の捕獲作戦」</title><desc lang="ja">規格外の力を持った少女が巻き起こす前世ひた隠しファンタジー開幕！</desc></programme>
-<programme start="20261107133000 +0000" stop="20261107140000 +0000" channel="TokyoMX1.jp"><title lang="ja">野生のラスボスが現れた！　＃１８「十二星天サジタリウスが現れた！」</title><desc lang="ja"/></programme>
-<programme start="20261107140000 +0000" stop="20261107143000 +0000" channel="TokyoMX1.jp"><title lang="ja">２２／７計算外　ｓｅａｓｏｎ３</title><desc lang="ja">秋元康が総合プロデュースするデジタル声優アイドル、２２／７（ナナブンノニジュウニ）の冠番組！</desc></programme>
-<programme start="20261107143000 +0000" stop="20261107150000 +0000" channel="TokyoMX1.jp"><title lang="ja">バーテックスフォース　＃６「間違いじゃない」【字】</title><desc lang="ja">「ストライクウィッチーズ」「ビビッドレッド・オペレーション」の高村和宏監督が満を持しておくる、完全新作オリジナルＴＶアニメ</desc></programme>
-<programme start="20261107150000 +0000" stop="20261107153000 +0000" channel="TokyoMX1.jp"><title lang="ja">マジカル★エクスプローラー　＃６「風雲！ギョブリン城」</title><desc lang="ja">憧れのゲーム世界を自由気ままに謳歌する転生魔術学園譚！</desc></programme>
-<programme start="20261107153000 +0000" stop="20261107160000 +0000" channel="TokyoMX1.jp"><title lang="ja">生徒会にも穴はある！　＃６「やっちゃった」「梅と先生」「こまろの世界」</title><desc lang="ja">留年を回避するため水之江梅が入った生徒会は、何やら変わった子たちが勢揃い！個性豊かな仲間と紡ぐ、ドタバタ賑やかな日々が待ち受けていた！</desc></programme>
-<programme start="20261107160000 +0000" stop="20261107163000 +0000" channel="TokyoMX1.jp"><title lang="ja">【新】「きみが死ぬまで恋をしたい」セレクション放送　＃１「キス」</title><desc lang="ja">どんな現実が訪れようとも、生きていく。これはそんな少女たちが見つける、あどけない願いの物語。</desc></programme>
+<programme start="20261107120000 +0000" stop="20261107123000 +0000" channel="TokyoMX1.jp"><title lang="ja">ドラマ「おいしい給食 ｓｅａｓｏｎ４」 ★第３話「南海の青軍曹 グルクン」【再】【字】</title><desc lang="ja">９０年代。給食マニアの教師と生徒による、どちらが給食を「おいしく食べるか」という闘いを描いた究極の「食ドラ」。沖縄を舞台に、さらにスケールアップした物語が開幕！</desc></programme>
+<programme start="20261107123000 +0000" stop="20261107130000 +0000" channel="TokyoMX1.jp"><title lang="ja">音ボケＰＯＰＳ ★ゲストには、ＢＥＮＩが登場！突撃コーナーには原田知世が登場！</title><desc lang="ja">今週は、ＩＭＡＬＵ、大地洋輔（ダイノジ）、相楽伊織、宇井優良梨（ＧＥＮＩＣ）がゲストに旬なアーティストをお招きし、それぞれの音楽性や人間性を深掘りしていきます！</desc></programme>
+<programme start="20261107130000 +0000" stop="20261107133000 +0000" channel="TokyoMX1.jp"><title lang="ja">転生した大聖女は、聖女であることをひた隠す ＃６「黒き王の捕獲作戦」</title><desc lang="ja">規格外の力を持った少女が巻き起こす前世ひた隠しファンタジー開幕！</desc></programme>
+<programme start="20261107133000 +0000" stop="20261107140000 +0000" channel="TokyoMX1.jp"><title lang="ja">野生のラスボスが現れた！ ＃１８「十二星天サジタリウスが現れた！」</title><desc lang="ja"/></programme>
+<programme start="20261107140000 +0000" stop="20261107143000 +0000" channel="TokyoMX1.jp"><title lang="ja">２２／７計算外 ｓｅａｓｏｎ３</title><desc lang="ja">秋元康が総合プロデュースするデジタル声優アイドル、２２／７（ナナブンノニジュウニ）の冠番組！</desc></programme>
+<programme start="20261107143000 +0000" stop="20261107150000 +0000" channel="TokyoMX1.jp"><title lang="ja">バーテックスフォース ＃６「間違いじゃない」【字】</title><desc lang="ja">「ストライクウィッチーズ」「ビビッドレッド・オペレーション」の高村和宏監督が満を持しておくる、完全新作オリジナルＴＶアニメ</desc></programme>
+<programme start="20261107150000 +0000" stop="20261107153000 +0000" channel="TokyoMX1.jp"><title lang="ja">マジカル★エクスプローラー ＃６「風雲！ギョブリン城」</title><desc lang="ja">憧れのゲーム世界を自由気ままに謳歌する転生魔術学園譚！</desc></programme>
+<programme start="20261107153000 +0000" stop="20261107160000 +0000" channel="TokyoMX1.jp"><title lang="ja">生徒会にも穴はある！ ＃６「やっちゃった」「梅と先生」「こまろの世界」</title><desc lang="ja">留年を回避するため水之江梅が入った生徒会は、何やら変わった子たちが勢揃い！個性豊かな仲間と紡ぐ、ドタバタ賑やかな日々が待ち受けていた！</desc></programme>
+<programme start="20261107160000 +0000" stop="20261107163000 +0000" channel="TokyoMX1.jp"><title lang="ja">【新】「きみが死ぬまで恋をしたい」セレクション放送 ＃１「キス」</title><desc lang="ja">どんな現実が訪れようとも、生きていく。これはそんな少女たちが見つける、あどけない願いの物語。</desc></programme>
 <programme start="20261107163000 +0000" stop="20261107170000 +0000" channel="TokyoMX1.jp"><title lang="ja">ＭＸショッピング</title><desc lang="ja"/></programme>
 <programme start="20261107170000 +0000" stop="20261107173000 +0000" channel="TokyoMX1.jp"><title lang="ja">ＭＸショッピング</title><desc lang="ja"/></programme>
 <programme start="20261107173000 +0000" stop="20261107180000 +0000" channel="TokyoMX1.jp"><title lang="ja">ＭＸショッピング</title><desc lang="ja"/></programme>
