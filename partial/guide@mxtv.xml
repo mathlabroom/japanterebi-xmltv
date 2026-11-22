@@ -46,6 +46,7 @@
 <programme start="20261122160000 +0000" stop="20261122170000 +0000" channel="TokyoMX2.jp"><title lang="ja">ヒーリングタイム＆ヘッドラインニュース</title><desc lang="ja">散歩の風景 墨田・台東・日本橋・東京ＢＡＹ</desc></programme>
 <programme start="20261122170000 +0000" stop="20261122173500 +0000" channel="TokyoMX2.jp"><title lang="ja">ヒーリングタイム＆ヘッドラインニュース</title><desc lang="ja">玉川上水編</desc></programme>
 <programme start="20261122173500 +0000" stop="20261122180500 +0000" channel="TokyoMX2.jp"><title lang="ja">ヒーリングタイム＆ヘッドラインニュース</title><desc lang="ja">玉川上水編</desc></programme>
+<programme start="20261122180500 +0000" stop="20261122190000 +0000" channel="TokyoMX2.jp"><title lang="ja">放送休止中</title></programme>
 <programme start="20261122190000 +0000" stop="20261122200000 +0000" channel="TokyoMX2.jp"><title lang="ja">ヒーリングタイム＆ヘッドラインニュース</title><desc lang="ja">にゃんタレＭｏｖｉｅ</desc></programme>
 <programme start="20261121200000 +0000" stop="20261121203000 +0000" channel="TokyoMX1.jp"><title lang="ja">ＭＸショッピング</title><desc lang="ja"/></programme>
 <programme start="20261121203000 +0000" stop="20261121210000 +0000" channel="TokyoMX1.jp"><title lang="ja">お買い物情報</title><desc lang="ja"/></programme>
@@ -84,14 +85,14 @@
 <programme start="20261122120000 +0000" stop="20261122123000 +0000" channel="TokyoMX1.jp"><title lang="ja">ぐらぶるＴＶちゃんねるっ！ ★小野友樹と加藤英美里がグラブルの魅力をお届けっ！</title><desc lang="ja">小野友樹と加藤英美里が本格ＲＰＧ「グランブルーファンタジー」の魅力をお届けするゲーム情報番組。</desc></programme>
 <programme start="20261122123000 +0000" stop="20261122130000 +0000" channel="TokyoMX1.jp"><title lang="ja">目覚めたら最強装備と宇宙船持ちだったので一戸建て目指して傭兵として自由に生きたい</title><desc lang="ja">＃８「眠り姫」</desc></programme>
 <programme start="20261122130000 +0000" stop="20261122133000 +0000" channel="TokyoMX1.jp"><title lang="ja">おじさんはカワイイものがお好き。 ＃８「小路課長と同窓会」</title><desc lang="ja"/></programme>
-<programme start="20261122133000 +0000" stop="20261122140000 +0000" channel="TokyoMX1.jp"><title lang="ja">魔法の姉妹ルルットリリィ　＃２０「リリィ、アイドル引退!?」</title><desc lang="ja">ときめきを呼び覚ます ぴえろ魔法少女シリーズ最新作！</desc></programme>
-<programme start="20261122140000 +0000" stop="20261122143000 +0000" channel="TokyoMX1.jp"><title lang="ja">ＴＡＮＫ　ＣＨＡＩＲ－戦車椅子－　＃８</title><desc lang="ja">荒廃した街で繰り広げられる個性豊かな敵とのバイオレンス・アクション、そして兄妹が互いを支え合う唯一無二の“絆の物語”にその身を捧げよ。</desc></programme>
-<programme start="20261122143000 +0000" stop="20261122150000 +0000" channel="TokyoMX1.jp"><title lang="ja">刃牙道　＃２１「疵と剣」</title><desc lang="ja">斬って、斬って、斬り登るーーそれが孤高の武蔵道ッッ！！！</desc></programme>
-<programme start="20261122150000 +0000" stop="20261122153000 +0000" channel="TokyoMX1.jp"><title lang="ja">彼方から　＃８「白霧の森」</title><desc lang="ja">異世界へ導かれた少女・典子と、孤独な渡り戦士・イザーク。ふたりの出会いが世界の運命を動かしていくーー。</desc></programme>
-<programme start="20261122153000 +0000" stop="20261122160000 +0000" channel="TokyoMX1.jp"><title lang="ja">弱気ＭＡＸ令嬢なのに、辣腕婚約者様の賭けに乗ってしまった　＃８</title><desc lang="ja">＃８「悪役令嬢ではなくなった私」</desc></programme>
+<programme start="20261122133000 +0000" stop="20261122140000 +0000" channel="TokyoMX1.jp"><title lang="ja">魔法の姉妹ルルットリリィ ＃２０「リリィ、アイドル引退!?」</title><desc lang="ja">ときめきを呼び覚ます ぴえろ魔法少女シリーズ最新作！</desc></programme>
+<programme start="20261122140000 +0000" stop="20261122143000 +0000" channel="TokyoMX1.jp"><title lang="ja">ＴＡＮＫ ＣＨＡＩＲ－戦車椅子－ ＃８</title><desc lang="ja">荒廃した街で繰り広げられる個性豊かな敵とのバイオレンス・アクション、そして兄妹が互いを支え合う唯一無二の“絆の物語”にその身を捧げよ。</desc></programme>
+<programme start="20261122143000 +0000" stop="20261122150000 +0000" channel="TokyoMX1.jp"><title lang="ja">刃牙道 ＃２１「疵と剣」</title><desc lang="ja">斬って、斬って、斬り登るーーそれが孤高の武蔵道ッッ！！！</desc></programme>
+<programme start="20261122150000 +0000" stop="20261122153000 +0000" channel="TokyoMX1.jp"><title lang="ja">彼方から ＃８「白霧の森」</title><desc lang="ja">異世界へ導かれた少女・典子と、孤独な渡り戦士・イザーク。ふたりの出会いが世界の運命を動かしていくーー。</desc></programme>
+<programme start="20261122153000 +0000" stop="20261122160000 +0000" channel="TokyoMX1.jp"><title lang="ja">弱気ＭＡＸ令嬢なのに、辣腕婚約者様の賭けに乗ってしまった ＃８</title><desc lang="ja">＃８「悪役令嬢ではなくなった私」</desc></programme>
 <programme start="20261122160000 +0000" stop="20261122160500 +0000" channel="TokyoMX1.jp"><title lang="ja">マウスカーソルで現実を操作できるようになったので女の子をいっぱいクリックしまーす</title><desc lang="ja">マウスカーソルで現実を操作できるようになったので、女の子をいっぱいクリックしまーす 総集編</desc></programme>
-<programme start="20261122160500 +0000" stop="20261122162000 +0000" channel="TokyoMX1.jp"><title lang="ja">彼女の友達　＃８</title><desc lang="ja">“背徳”と“誘惑”が交錯する、危うい三人の恋模様を描く話題作</desc></programme>
-<programme start="20261122162000 +0000" stop="20261122163500 +0000" channel="TokyoMX1.jp"><title lang="ja">ダークサモナーとデキている　＃８「ダークサモナーと教会の審問官」</title><desc lang="ja">背徳とときめきが交錯する。亜人女子×神官男子のファンタジー・ケンカップルラブコメ、開幕！</desc></programme>
+<programme start="20261122160500 +0000" stop="20261122162000 +0000" channel="TokyoMX1.jp"><title lang="ja">彼女の友達 ＃８</title><desc lang="ja">“背徳”と“誘惑”が交錯する、危うい三人の恋模様を描く話題作</desc></programme>
+<programme start="20261122162000 +0000" stop="20261122163500 +0000" channel="TokyoMX1.jp"><title lang="ja">ダークサモナーとデキている ＃８「ダークサモナーと教会の審問官」</title><desc lang="ja">背徳とときめきが交錯する。亜人女子×神官男子のファンタジー・ケンカップルラブコメ、開幕！</desc></programme>
 <programme start="20261122163500 +0000" stop="20261122170500 +0000" channel="TokyoMX1.jp"><title lang="ja">ええじゃないか！！</title><desc lang="ja"/></programme>
 <programme start="20261122170500 +0000" stop="20261122173500 +0000" channel="TokyoMX1.jp"><title lang="ja">ＭＸショッピング</title><desc lang="ja"/></programme>
 <programme start="20261122173500 +0000" stop="20261122180500 +0000" channel="TokyoMX1.jp"><title lang="ja">ＭＸショッピング</title><desc lang="ja"/></programme>
